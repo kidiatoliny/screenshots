@@ -1,0 +1,20 @@
+title: "Favourite bug: a branch called --mirror"
+app: unified-dev
+schedule:
+  - channel: x
+    date: 2026-10-13T10:00:00+02:00
+    status: scheduled
+    buffer_id: 6aca07afbba9419ccbf85bcc
+    link:
+  - channel: bluesky
+    date: 2026-10-13T10:00:00+02:00
+    status: scheduled
+    buffer_id: 6aca07b3d9cab260a7bbfad1
+    link:
+  - channel: linkedin
+    date: 2026-10-26T08:30:00+01:00
+    status: draft
+    buffer_id: 6aca4c46c4de2d2b122d8a5b
+    link:
+images:
+  - 01-diff-inspector.jpg

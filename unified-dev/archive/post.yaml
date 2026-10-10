@@ -1,0 +1,12 @@
+title: "Unified Dev: parallel agents and the Archive safety report"
+app: unified-dev
+schedule:
+  - channel: linkedin
+    date: 2026-10-20T08:30:00+02:00
+    status: scheduled
+    buffer_id: 6aca09ead9cab260a7bc5d6b
+    link:
+images:
+  - ../overview/01-main-window.jpg
+  - ../agent/01-turn-running.jpg
+  - 01-safety-report.jpg
