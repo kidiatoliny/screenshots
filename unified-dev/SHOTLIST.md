@@ -18,9 +18,4 @@ Tick a box once the file is pushed. Dates are when the post that uses it goes ou
 
 ## Social exports
 
-Bluesky rejects images over 1 MB and most full-size PNGs here are 1.1 to 1.3 MB. Every shot used in a post also gets `social/unified-dev/<same path>.jpg`: flattened on white, 2400 px wide, under 900 KB.
-
-- [x] `social/unified-dev/overview/01-main-window.jpg` **Sat 10 Oct, 18:00**
-- [x] `social/unified-dev/git/01-diff-inspector.jpg` **Tue 13 Oct**
-- [x] `social/unified-dev/agent/01-turn-running.jpg` **Thu 15 Oct**
-- [x] `social/unified-dev/archive/01-safety-report.jpg` **Tue 20 Oct**
+Bluesky rejects images over 1 MB. Images used in posts are copied as JPEG (2400 px wide, under 900 KB) into that post's folder under `social/`. See `social/README.md`.
