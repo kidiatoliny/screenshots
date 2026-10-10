@@ -1,0 +1,138 @@
+{
+  "welcome": false,
+  "projects": [
+    {
+      "name": "storefront",
+      "files": {
+        "README.md": "# Storefront\n\nCheckout, carts and orders for the online shop.\n",
+        "src/cart.ts": "export interface Cart {\n  subtotal: number\n  items: unknown[]\n}\n",
+        "src/checkout.ts": "import { Cart } from './cart'\n\nexport function shippingFor(cart: Cart): number {\n  return 4.95\n}\n",
+        "config/features.ts": "export const features = {\n  freeShipping: false,\n  freeShippingThreshold: 50,\n}\n",
+        "package.json": "{\n  \"name\": \"storefront\",\n  \"private\": true,\n  \"scripts\": { \"test\": \"vitest run\" }\n}\n"
+      },
+      "commits": [
+        "Initial checkout flow",
+        "Add cart totals",
+        "Move feature flags to config"
+      ],
+      "workspaces": [
+        {
+          "name": "Free shipping over 50",
+          "branch": "feat/free-shipping",
+          "chats": [
+            {
+              "title": "Free shipping",
+              "messages": [
+                {
+                  "from": "user",
+                  "text": "Orders of 50 or more should ship for free. Read the threshold from config/features.ts and add tests."
+                },
+                {
+                  "from": "agent",
+                  "text": "I added qualifiesForFreeShipping() to src/checkout.ts and turned the flag on in config/features.ts. Empty carts are never charged, and the flat rate still applies under the threshold.\n\nThree new tests in test/checkout.test.ts cover the threshold, the flat rate and the empty cart. All of them pass."
+                }
+              ]
+            }
+          ],
+          "changes": {
+            "src/checkout.ts": "import { Cart } from './cart'\nimport { features } from '../config/features'\n\nconst FLAT_RATE = 4.95\n\nexport function qualifiesForFreeShipping(cart: Cart): boolean {\n  return features.freeShipping && cart.subtotal >= features.freeShippingThreshold\n}\n\nexport function shippingFor(cart: Cart): number {\n  if (cart.items.length === 0) return 0\n  if (qualifiesForFreeShipping(cart)) return 0\n  return FLAT_RATE\n}\n",
+            "config/features.ts": "export const features = {\n  freeShipping: true,\n  freeShippingThreshold: 50,\n}\n",
+            "test/checkout.test.ts": "import { describe, expect, it } from 'vitest'\nimport { shippingFor } from '../src/checkout'\n\nconst cart = (subtotal: number, items = 1) => ({ subtotal, items: Array(items).fill({}) })\n\ndescribe('shippingFor', () => {\n  it('charges the flat rate under the threshold', () => {\n    expect(shippingFor(cart(49.99))).toBe(4.95)\n  })\n\n  it('is free at the threshold', () => {\n    expect(shippingFor(cart(50))).toBe(0)\n  })\n\n  it('never charges an empty cart', () => {\n    expect(shippingFor(cart(0, 0))).toBe(0)\n  })\n})\n"
+          }
+        },
+        {
+          "name": "Flaky order test",
+          "branch": "fix/flaky-order-test",
+          "unread": true,
+          "chats": [
+            {
+              "title": "Flaky test",
+              "messages": [
+                {
+                  "from": "user",
+                  "text": "orders.test.ts fails about one run in ten on CI. Find out why."
+                },
+                {
+                  "from": "agent",
+                  "text": "The test builds the order date with new Date() and compares it to a date formatted in UTC, so it fails whenever CI runs close to midnight. I froze the clock with vi.useFakeTimers() and ran it 200 times in a row without a failure."
+                }
+              ]
+            }
+          ],
+          "changes": {
+            "test/orders.test.ts": "import { beforeEach, vi } from 'vitest'\n\nbeforeEach(() => {\n  vi.useFakeTimers()\n  vi.setSystemTime(new Date('2026-10-10T12:00:00Z'))\n})\n"
+          }
+        },
+        {
+          "name": "Rate limit the API",
+          "branch": "feat/rate-limit",
+          "chats": [
+            {
+              "title": "Rate limiting",
+              "messages": [
+                {
+                  "from": "user",
+                  "text": "Add rate limiting to the public API: 60 requests a minute per key."
+                },
+                {
+                  "from": "agent",
+                  "text": "Working on it. I'm adding the limiter as middleware so the routes don't change."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Upgrade Vitest",
+          "branch": "chore/upgrade-vitest"
+        }
+      ]
+    },
+    {
+      "name": "billing-sdk",
+      "files": {
+        "README.md": "# Billing SDK\n\nClient for the billing API.\n"
+      },
+      "commits": [
+        "Initial client",
+        "Sign requests with HMAC"
+      ],
+      "workspaces": [
+        {
+          "name": "Retry on 429",
+          "branch": "feat/retry-429",
+          "chats": [
+            {
+              "title": "Retries",
+              "messages": [
+                {
+                  "from": "user",
+                  "text": "Retry requests that get a 429, with exponential backoff."
+                },
+                {
+                  "from": "agent",
+                  "text": "Done. Retries honour the Retry-After header and stop after five attempts."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "docs-site",
+      "files": {
+        "README.md": "# Docs\n\nThe documentation site.\n"
+      },
+      "commits": [
+        "Initial docs"
+      ],
+      "workspaces": [
+        {
+          "name": "Getting started guide",
+          "branch": "docs/getting-started"
+        }
+      ]
+    }
+  ]
+}
