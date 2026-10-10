@@ -11,7 +11,7 @@ Project: `unified-dev` · Status: scheduled
 
 ## Images
 
-- `01-main-window.jpg` from `unified-dev/overview/01-main-window.png`
+- `overview/01-main-window.png` (original), `overview/01-main-window.jpg` (used in the post)
 
 ## Text: X, Bluesky
 

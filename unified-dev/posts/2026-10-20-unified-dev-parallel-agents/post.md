@@ -10,9 +10,9 @@ Project: `unified-dev` · Status: scheduled
 
 ## Images
 
-- `01-main-window.jpg` from `unified-dev/overview/01-main-window.png`
-- `02-turn-running.jpg` from `unified-dev/agent/01-turn-running.png`
-- `03-safety-report.jpg` from `unified-dev/archive/01-safety-report.png`
+- `overview/01-main-window.png` (original), `overview/01-main-window.jpg` (used in the post)
+- `agent/01-turn-running.png` (original), `agent/01-turn-running.jpg` (used in the post)
+- `archive/01-safety-report.png` (original), `archive/01-safety-report.jpg` (used in the post)
 
 ## Text: LinkedIn
 

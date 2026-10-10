@@ -1,0 +1,52 @@
+name: Social JPEGs
+
+# For every screenshot PNG pushed to main, keep a .jpg next to it that every
+# network accepts (2400 px wide at most, under 900 KB, flattened on white).
+on:
+  push:
+    branches: [main]
+    paths: ["**/*.png"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  jpeg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Generate missing or outdated JPEGs
+        run: |
+          python - <<'PY'
+          import glob, io, os
+          from PIL import Image
+          for png in glob.glob("**/*.png", recursive=True):
+              if png.startswith((".", "social/")):
+                  continue
+              jpg = png[:-4] + ".jpg"
+              if os.path.exists(jpg) and os.path.getmtime(jpg) >= os.path.getmtime(png):
+                  continue
+              im = Image.open(png).convert("RGBA")
+              bg = Image.new("RGBA", im.size, (255, 255, 255, 255))
+              bg.alpha_composite(im)
+              w = min(2400, im.width)
+              out = bg.convert("RGB").resize((w, round(im.height * w / im.width)), Image.LANCZOS)
+              for q in (92, 88, 84, 80, 75):
+                  buf = io.BytesIO()
+                  out.save(buf, "JPEG", quality=q, optimize=True, progressive=True, subsampling=0)
+                  if buf.tell() < 900_000:
+                      break
+              open(jpg, "wb").write(buf.getvalue())
+              print(jpg, buf.tell())
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.jpg'
+          git diff --cached --quiet || { git commit -m "chore: regenerate social JPEGs"; git push; }

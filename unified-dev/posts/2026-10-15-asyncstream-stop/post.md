@@ -11,7 +11,7 @@ Project: `unified-dev` · Status: scheduled
 
 ## Images
 
-- `01-turn-running.jpg` from `unified-dev/agent/01-turn-running.png`
+- `agent/01-turn-running.png` (original), `agent/01-turn-running.jpg` (used in the post)
 
 ## Text: X, Bluesky
 

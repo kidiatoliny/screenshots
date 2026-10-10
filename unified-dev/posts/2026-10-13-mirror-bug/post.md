@@ -12,7 +12,7 @@ Project: `unified-dev` · Status: scheduled
 
 ## Images
 
-- `01-diff-inspector.jpg` from `unified-dev/git/01-diff-inspector.png`
+- `git/01-diff-inspector.png` (original), `git/01-diff-inspector.jpg` (used in the post)
 
 ## Text: X, Bluesky
 
