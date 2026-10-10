@@ -10,3 +10,6 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [ ] `settings/01-agents.png`: RETAKE: the account details were painted over in the image. Needs a build signed in with demo accounts, showing the Agents settings screen with the detected CLIs.
 - [x] `workspaces/02-create-sheet.png`: the sheet for creating a new workspace, with the source picker.
 - [ ] `agent/02-subagents.png`: RETAKE: a subagent summary line was painted over in the image. Needs a transcript where the agent spawned subagents and every line, subagent output included, is in English.
+- [x] `archive/02-archived-list.png`: Home, Archived tab, with an archived workspace and its branch.
+- [x] `archive/03-home-all.png`: Home, All tab, every workspace with its project and branch, one of them archived.
+- [x] `git/02-branch-and-push.png`: a workspace with its branch bar (branch, pull request status, Create pull request) and the Push button.

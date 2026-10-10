@@ -1,0 +1,80 @@
+{
+  "carousels": [
+    {
+      "feature": "overview",
+      "post": "overview/post.md",
+      "date": "2026-10-10",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "overview/01-main-window.png",
+          "blob": "2177cf7d1e376247851b6c5d36346299ae7adf38"
+        }
+      ],
+      "slides": 5,
+      "export": "~/Desktop/blogs/unified-dev-overview/",
+      "canvas": "https://claude.ai/artifact/SvjXcRywUNzHhvuQG6Y3du",
+      "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "archive",
+      "post": "archive/post.md",
+      "date": "2026-10-10",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "archive/01-safety-report.png",
+          "blob": "93eaa702732bd2ecc8f9f197ee9f69939b440f6e"
+        },
+        {
+          "file": "archive/02-archived-list.png",
+          "blob": "7b21d416079e588f62106fab7180e7dc6b88fc31"
+        },
+        {
+          "file": "archive/03-home-all.png",
+          "blob": "1490a6680b611dc9952dde03a8976d0113b9ad32"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/unified-dev-archive/",
+      "canvas": "https://claude.ai/artifact/JGx4szu1d7YsPtmbbzK7xS",
+      "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "git",
+      "post": "git/post.md",
+      "date": "2026-10-10",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "git/01-diff-inspector.png",
+          "blob": "dd1b975d96511828b20b68d29ee51914a135fbaa"
+        },
+        {
+          "file": "git/02-branch-and-push.png",
+          "blob": "ef0e11dc4e2aa0e8a562053685a6a3c732b1a7af"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/unified-dev-git/",
+      "canvas": "https://claude.ai/artifact/46pDWBHpFTdbYHAUXnCgRi",
+      "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "agent",
+      "post": "agent/post.md",
+      "date": "2026-10-10",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "agent/01-turn-running.png",
+          "blob": "d47e88c5007e35b890ba54554dbb1e2c38fae782"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/unified-dev-agent/",
+      "canvas": "https://claude.ai/artifact/Pt991P4tqPMrk91YjioGPt",
+      "style": "~/.claude/styles/unified-dev.md"
+    }
+  ]
+}
