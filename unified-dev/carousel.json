@@ -75,6 +75,24 @@
       "export": "~/Desktop/blogs/unified-dev-agent/",
       "canvas": "https://claude.ai/artifact/Pt991P4tqPMrk91YjioGPt",
       "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "workspaces",
+      "post": "workspaces/post.md",
+      "date": "2026-10-11",
+      "status": "draft",
+      "screenshots": [
+        {
+          "file": "workspaces/01-parallel-agents.png",
+          "blob": "97adbc5923620fd33d31e69ec8f1c3a89220eaba"
+        },
+        {
+          "file": "workspaces/02-create-sheet.png",
+          "blob": "6432f3421ec62ccb6394a8e3ce4cdcb62d453a56"
+        }
+      ],
+      "canvas": "https://claude.ai/artifact/DSa3MZ62fUAdzSWQBoWpEq",
+      "style": "~/.claude/styles/unified-dev.md"
     }
   ]
 }
