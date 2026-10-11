@@ -1,5 +1,9 @@
 # Unified Dev: parallel agents and the Archive safety report
 
+## Text: X, Bluesky
+
+Lesson from building Unified Dev: the first version of Archive ran git worktree remove --force and git branch -D with no checks. Uncommitted work, gone. Now it builds a safety report first, refuses by default and shows exactly what would be lost before you confirm.
+
 ## Text: LinkedIn
 
 I've been building Unified Dev, a native macOS app for running coding agents in parallel. Each agent gets its own git worktree, so several of them can work on the same repo without stepping on each other.
