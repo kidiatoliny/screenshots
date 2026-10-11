@@ -80,7 +80,7 @@
       "feature": "workspaces",
       "post": "workspaces/post.md",
       "date": "2026-10-11",
-      "status": "draft",
+      "status": "approved",
       "screenshots": [
         {
           "file": "workspaces/01-parallel-agents.png",
@@ -91,6 +91,8 @@
           "blob": "6432f3421ec62ccb6394a8e3ce4cdcb62d453a56"
         }
       ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/unified-dev-workspaces/",
       "canvas": "https://claude.ai/artifact/DSa3MZ62fUAdzSWQBoWpEq",
       "style": "~/.claude/styles/unified-dev.md"
     }
