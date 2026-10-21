@@ -13,3 +13,17 @@ It's built with SwiftUI. One window: projects and workspaces on the left, the ag
 Because a workspace is a real worktree on disk, a lot of the work went into not destroying one. The first version of Archive ran git worktree remove --force and git branch -D with no checks. Uncommitted work, gone. Now it builds a safety report first, refuses by default, and tells you exactly what would be lost before you confirm.
 
 If you run more than one coding agent at a time, how do you keep them from stepping on each other?
+
+---
+
+# Unified Dev: every workspace on one Home screen
+
+## Text: X
+
+The Home screen in Unified Dev lists every workspace from every project in one place: its branch, how much it changed, how long ago it was active. Archived ones stay in the list, greyed out, so I can still find the branch they left behind.
+
+## Text: Bluesky
+
+The Home screen in Unified Dev lists every workspace from every project in one place: its branch, how much it changed, how long ago it was active. Archived ones stay in the list, greyed out, so I can still find the branch they left behind.
+
+#SwiftUI #macOS

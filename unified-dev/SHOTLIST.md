@@ -13,3 +13,5 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [x] `archive/02-archived-list.png`: Home, Archived tab, with an archived workspace and its branch.
 - [x] `archive/03-home-all.png`: Home, All tab, every workspace with its project and branch, one of them archived.
 - [x] `git/02-branch-and-push.png`: a workspace with its branch bar (branch, pull request status, Create pull request) and the Push button.
+- [ ] `updates/01-update-alert.png`: NEEDED BY Sun 25/10 20:00. Preview opened with `Tools/scenarios/software-update.json`: the update alert with the release notes, the Skip button, and Later as the default button.
+- [ ] `spend/01-spend-screen.png`: NEEDED BY Mon 26/10 20:00. The spend screen in light appearance: the grouped form, columns ranked by cost, a month of bars with day labels.
