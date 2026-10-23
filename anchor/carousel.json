@@ -1,0 +1,24 @@
+{
+  "carousels": [
+    {
+      "feature": "keychain-simulator",
+      "post": "keychain-simulator/post.md",
+      "date": "2026-10-23",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "keychain-simulator/01-simulator-key-not-found.png",
+          "blob": "83a5d896a4c72b36873eeeb7e83b7b80ad379d36"
+        },
+        {
+          "file": "keychain-simulator/02-simulator-keychain-sync-off.png",
+          "blob": "77b50ae220dac7afee2c56ead9446815198c126c"
+        }
+      ],
+      "slides": 7,
+      "export": "~/Desktop/blogs/anchor-keychain-simulator/",
+      "canvas": "https://claude.ai/artifact/UZvn7arQPZWzpgZoXdbjMU",
+      "style": "~/.claude/styles/anchor.md"
+    }
+  ]
+}
