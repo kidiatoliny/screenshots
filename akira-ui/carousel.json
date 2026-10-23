@@ -1,0 +1,24 @@
+{
+  "carousels": [
+    {
+      "feature": "theming",
+      "post": "theming/post.md",
+      "date": "2026-10-23",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "theming/01-default-purple.png",
+          "blob": "c6308a47dc7a75c5e3e1ff93ed6ff56770a055d0"
+        },
+        {
+          "file": "theming/02-custom-brand.png",
+          "blob": "be70a0c7609ca46b5976429c71ae809c4fabe6c1"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/akira-ui-theming/",
+      "canvas": "https://claude.ai/artifact/5bFzeTsYCyEt7L2EesBN48",
+      "style": "~/.claude/styles/akira-ui.md"
+    }
+  ]
+}
