@@ -1,0 +1,20 @@
+{
+  "carousels": [
+    {
+      "feature": "secrets",
+      "post": "secrets/post.md",
+      "date": "2026-10-23",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "secrets/01-blocked-push.png",
+          "blob": "eb41a5e3049406d216aca7081e0eabd1b1a08a06"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/dotsync-secrets/",
+      "canvas": "https://claude.ai/artifact/QW6rLfeEAwGek2GqWPLzKN",
+      "style": "~/.claude/styles/dotsync.md"
+    }
+  ]
+}
