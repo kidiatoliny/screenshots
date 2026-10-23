@@ -23,3 +23,7 @@ What the alert says and which buttons it has is decided in the core and tested f
 What's the most annoying update prompt you've had to deal with?
 
 #Swift #macOS
+
+## Screenshots
+
+- `01-update-alert.png`
