@@ -19,3 +19,7 @@ The ignore file ignores everything first and turns back on only real configurati
 How do you move your dev setup to a new machine?
 
 #macOS #Swift #DevTools
+
+## Screenshots
+
+- `01-blocked-push.png`
