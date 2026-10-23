@@ -1,0 +1,36 @@
+{
+  "carousels": [
+    {
+      "feature": "hello",
+      "post": "hello/post.md",
+      "date": "2026-10-23",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "hello/01-ola-mundo.png",
+          "blob": "8301ba62c725d5a0e9da8239db64bb74c5865813"
+        }
+      ],
+      "slides": 7,
+      "export": "~/Desktop/blogs/kriol-hello/",
+      "canvas": "https://claude.ai/artifact/TKY8SAdgGnY4qJ6VFmaqtL",
+      "style": "~/.claude/styles/kriol.md"
+    },
+    {
+      "feature": "init-order",
+      "post": "init-order/post.md",
+      "date": "2026-10-23",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "init-order/01-error.png",
+          "blob": "4a6ec6e6e8d913af8fe49c63f88ad5229315edb6"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/kriol-init-order/",
+      "canvas": "https://claude.ai/artifact/FodgbMJYPFepbEjo9nPqC2",
+      "style": "~/.claude/styles/kriol.md"
+    }
+  ]
+}
