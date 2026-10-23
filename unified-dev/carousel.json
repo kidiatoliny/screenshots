@@ -95,6 +95,38 @@
       "export": "~/Desktop/blogs/unified-dev-workspaces/",
       "canvas": "https://claude.ai/artifact/DSa3MZ62fUAdzSWQBoWpEq",
       "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "spend",
+      "post": "spend/post.md",
+      "date": "2026-10-23",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "spend/01-spend-screen.png",
+          "blob": "1a9f9ade5e553e581e01a9f2e8ed406e0784dcce"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/unified-dev-spend/",
+      "canvas": "https://claude.ai/artifact/17cAwuPi7nQfssmWbBuCyZ",
+      "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "updates",
+      "post": "updates/post.md",
+      "date": "2026-10-23",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "updates/01-update-alert.png",
+          "blob": "53d9f8cb04ac84a93ee177b7de13bbaed7c72a4e"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/unified-dev-updates/",
+      "canvas": "https://claude.ai/artifact/PoBg1WXSwUG7svwFEUzdEj",
+      "style": "~/.claude/styles/unified-dev.md"
     }
   ]
 }
