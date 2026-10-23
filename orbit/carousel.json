@@ -1,0 +1,24 @@
+{
+  "carousels": [
+    {
+      "feature": "overview",
+      "post": "overview/post.md",
+      "date": "2026-10-23",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "overview/01-dashboard.png",
+          "blob": "1c90b93d888a2499c1b42f127f1687ef9a5f6eeb"
+        },
+        {
+          "file": "overview/02-project-detail.png",
+          "blob": "8796e8971b42dd2fc97c22e40bdf8707a16bba45"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/orbit-overview/",
+      "canvas": "https://claude.ai/artifact/4LeAyLTV3ZuHT4bJXWTES9",
+      "style": "~/.claude/styles/orbit.md"
+    }
+  ]
+}
