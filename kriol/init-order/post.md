@@ -23,3 +23,7 @@ Gosto muito disto num compilador. Um erro que explica a solução na língua de 
 Já experimentaste programar na tua língua?
 
 #Kriol #CaboVerde #programação
+
+## Screenshots
+
+- `01-error.png`
