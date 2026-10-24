@@ -21,3 +21,8 @@ Traz também um modelo Prisma para as sequências, que se instala com npx @akira
 Ainda está em beta, por isso a API pode mudar antes da 1.0.0. Se estás a integrar a e-Fatura noutro stack, conta como está a correr.
 
 #CaboVerde #NodeJS #TypeScript
+
+## Screenshots
+
+- `01-issue-invoice.png`
+- `02-response.png`
