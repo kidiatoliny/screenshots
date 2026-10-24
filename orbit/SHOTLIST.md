@@ -8,4 +8,4 @@ Screens to capture and their status. Build or open it from an up-to-date main, d
 - [x] `overview/01-dashboard.png`: The dashboard with a few demo projects and their <slug>.test domains.
 - [x] `overview/02-project-detail.png`: a demo project's detail view with the detected framework, package manager, port and suggested dev command.
 - [ ] `projects/01-detection.png`: a project detail view showing the detected package manager, framework and suggested dev command.
-- [ ] `projects/02-add-overwrite.png`: adding a project whose slug already exists, with the overwrite offer.
+- [ ] `projects/02-add-overwrite.png`: NEEDED BY Wed 28/10 20:00. The Add project dialog for a folder whose slug is already taken, showing the "already registered" notice and the Overwrite button.
