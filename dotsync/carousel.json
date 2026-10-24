@@ -15,6 +15,26 @@
       "export": "~/Desktop/blogs/dotsync-secrets/",
       "canvas": "https://claude.ai/artifact/QW6rLfeEAwGek2GqWPLzKN",
       "style": "~/.claude/styles/dotsync.md"
+    },
+    {
+      "feature": "overview",
+      "post": "overview/post.md",
+      "date": "2026-10-24",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "overview/01-menu-bar.png",
+          "blob": "c51df922b7f6ae2894bfc7132c7d9eaa571283b2"
+        },
+        {
+          "file": "overview/02-settings.png",
+          "blob": "9c7c0042d709b7c9c785c0992e0f71a495a2f1aa"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/dotsync-overview/",
+      "canvas": "https://claude.ai/artifact/3Pjt3mCsQxgb1R9Hdbvfmd",
+      "style": "~/.claude/styles/dotsync.md"
     }
   ]
 }
