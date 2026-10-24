@@ -13,3 +13,4 @@ O dotsync vive na barra de menus do Mac e mantém ~/.claude e ~/.codex sincroniz
 ## Screenshots
 
 - `01-menu-bar.png`
+- `02-settings.png`

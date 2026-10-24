@@ -6,6 +6,7 @@ How to shoot: the app's own windows and the menu bar popover; demo folders and a
 Screens to capture and their status. Build or open it from an up-to-date main, demo data only, window-only `screencapture` on Retina, never cropped or edited. The post that uses a feature's shots goes in that feature's folder as `post.md` (written by Claude).
 
 - [x] `overview/01-menu-bar.png`: The menu bar popover with ~/.claude and ~/.codex as synced roots (demo account, no real repo names).
+- [x] `overview/02-settings.png`: the popover's Settings view: GitHub account, private-only repos, discovery, automation and encryption (demo account).
 - [x] `secrets/01-blocked-push.png`: A secret-scan alert that blocks a sync and names the file, with the ignore or encrypt choice (demo token, demo folder).
 - [ ] `settings/01-grouped-cards.png`: the settings window with the grouped card UI.
 - [ ] `log/01-log-window.png`: the native log window during a sync.
