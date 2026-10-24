@@ -1,0 +1,24 @@
+{
+  "carousels": [
+    {
+      "feature": "playground",
+      "post": "playground/post.md",
+      "date": "2026-10-24",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "playground/01-issue-invoice.png",
+          "blob": "ea24218e380d9d30b4212cd3b3571ac95ddfc641"
+        },
+        {
+          "file": "playground/02-response.png",
+          "blob": "9fbb3c049e68b704d14f0c845498cec60a9dd349"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/efatura-playground/",
+      "canvas": "https://claude.ai/artifact/43J2CHphGX5cb7HdtbwVNJ",
+      "style": "~/.claude/styles/efatura.md"
+    }
+  ]
+}
