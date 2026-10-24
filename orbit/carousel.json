@@ -19,6 +19,30 @@
       "export": "~/Desktop/blogs/orbit-overview/",
       "canvas": "https://claude.ai/artifact/4LeAyLTV3ZuHT4bJXWTES9",
       "style": "~/.claude/styles/orbit.md"
+    },
+    {
+      "feature": "projects",
+      "post": "projects/post.md",
+      "date": "2026-10-24",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "projects/01-detection.png",
+          "blob": "9bf3e9b204df73081147fbb6d410887900623743"
+        },
+        {
+          "file": "projects/02-add-overwrite.png",
+          "blob": "9626eb841f7ddbdf81577d6fe1232eddb4d119ae"
+        },
+        {
+          "file": "projects/03-after-overwrite.png",
+          "blob": "f18393e2a8bb458f5d2c6a4463bde43548d21306"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/orbit-projects/",
+      "canvas": "https://claude.ai/artifact/MqKUFVkDxFVt3TwHkw5ZoB",
+      "style": "~/.claude/styles/orbit.md"
     }
   ]
 }
