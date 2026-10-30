@@ -15,5 +15,7 @@ Screens to capture and their status. Build or open it from an up-to-date main, d
 - [ ] `macos/03-hello-arm64.png`: Ghostty with `uname -m` (arm64), `cat examples/hello_world.kriol` and its output "Kualeh Mundu!" when run with the macOS-built `kriol`.
 - [x] `install-checksum/01-mismatch.png`: Ghostty running install.sh from main against the v1.16.2-alpha+build1 pre-release with the downloaded archive truncated to 1 MB, stopping at "Verifying..." with the checksum mismatch error.
 - [x] `install-checksum/02-ok.png`: the same install.sh against the untouched pre-release: Verifying, Extracting, installed.
-- [ ] `exit-codes/01-sai-256.png`: NEEDED BY Tue 03/11 20:00. Ghostty: `cat` of a .kriol file with `sai(256);` in `inisiu`, then `kriol` rejecting it with the out-of-range error.
+- [x] `exit-codes/01-sai-256.png`: Ghostty, kriol built from main: `cat` of tests/fail/fail_sai_code_above_255.kr (`sai(256);` in `inisiu`), `kriol` rejecting it with the out-of-range error, exit status 1.
+- [x] `exit-codes/02-computed-code.png`: tests/panic/sai_code_negative.kr (`sai(code)` with code -1): compiles, and the program stops with the runtime error and exit status 1.
+- [x] `exit-codes/03-release-exits-0.png`: the v1.16.2 release, before the fix: the same `sai(256)` file compiles and the program exits with 0.
 - [ ] `ci-pinning/01-actions-sha.png`: NEEDED BY Wed 04/11 20:00. Editor or terminal showing a workflow file with `uses: <action>@<full sha> # vX` lines and the Windows step that compares Get-FileHash with the pinned SHA256.
