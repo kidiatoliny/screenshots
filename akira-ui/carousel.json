@@ -39,6 +39,22 @@
       "export": "~/Desktop/blogs/akira-ui-tour/",
       "canvas": "https://claude.ai/artifact/GDicuNsDRpnQDo7BgMfHQH",
       "style": "~/.claude/styles/akira-ui.md"
+    },
+    {
+      "feature": "data-table",
+      "post": "data-table/post.md",
+      "date": "2026-10-30",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "data-table/01-row-actions.png",
+          "blob": "7f88537d13fa37aeade7ca1bf7c4169007ff34ae"
+        }
+      ],
+      "slides": 7,
+      "export": "~/Desktop/blogs/akira-ui-data-table/",
+      "canvas": "https://claude.ai/artifact/3doA59QBSVeHsapmyxM9xL",
+      "style": "~/.claude/styles/akira-ui.md"
     }
   ]
 }
