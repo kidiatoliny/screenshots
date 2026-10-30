@@ -9,5 +9,5 @@ Screens to capture and their status. Build or open it from an up-to-date main, d
 - [x] `theming/01-default-purple.png`: A component page (e.g. Button) in the default Akira purple.
 - [x] `theming/02-custom-brand.png`: The same page after swapping the brand with a single CSS import. Same framing as 01 so they work side by side.
 - [ ] `blocks/01-app-shell.png`: one of the application shells (sidebar, header, user menu).
-- [ ] `data-table/01-row-actions.png`: NEEDED BY Thu 29/10 20:00. The data table with the row actions menu open and the pagination and rows-per-page controls visible. If possible a second shot `data-table/02-accessibility.png`: Safari or Chrome accessibility inspector showing the named "Actions" / "Next page" controls.
-- [ ] `tour/01-product-tour.png`: NEEDED BY Tue 27/10 20:00. A product tour step from the blocks open over a demo page (the tour popover with its step counter and Next button).
+- [ ] `data-table/01-row-actions.png`: NEEDED BY Wed 04/11 20:00 (missed 29/10, post moved). The data table with the row actions menu open and the pagination and rows-per-page controls visible. Optional `data-table/02-accessibility.png`: the browser accessibility inspector showing the named controls.
+- [ ] `tour/01-product-tour.png`: NEEDED BY Mon 02/11 20:00 (missed 27/10, post moved). A product tour step from the blocks open over a demo page (the tour popover with its step counter and Next button).

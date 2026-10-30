@@ -7,7 +7,7 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [x] `agent/01-turn-running.png`: an agent mid-turn, with the Stop button visible.
 - [x] `workspaces/01-parallel-agents.png`: 3 or 4 workspaces visibly running agents at the same time, with the sidebar as the focus.
 - [x] `archive/01-safety-report.png`: the Archive confirmation listing what would be lost.
-- [ ] `settings/01-agents.png`: RETAKE: the account details were painted over in the image. Needs a build signed in with demo accounts, showing the Agents settings screen with the detected CLIs.
+- [ ] `settings/01-agents.png`: NEEDED BY Tue 03/11 20:00. RETAKE with the preview's seeded demo accounts (no painting): the Agents settings screen with the detected CLIs and the account each one is signed in to.
 - [x] `workspaces/02-create-sheet.png`: the sheet for creating a new workspace, with the source picker.
 - [ ] `agent/02-subagents.png`: RETAKE: a subagent summary line was painted over in the image. Needs a transcript where the agent spawned subagents and every line, subagent output included, is in English.
 - [x] `archive/02-archived-list.png`: Home, Archived tab, with an archived workspace and its branch.
@@ -15,3 +15,4 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [x] `git/02-branch-and-push.png`: a workspace with its branch bar (branch, pull request status, Create pull request) and the Push button.
 - [x] `updates/01-update-alert.png`: Preview opened with `Tools/scenarios/software-update.json`: the update alert with the release notes, the Skip button, and Later as the default button.
 - [x] `spend/01-spend-screen.png`: The spend screen in light appearance: the grouped form, columns ranked by cost, a month of bars with day labels.
+- [ ] `spend/02-by-account.png`: NEEDED BY Sun 01/11 20:00. Preview seeded with two demo accounts (feat(preview): seed the account each agent CLI is signed in to): the spend screen with the By account section showing both accounts.
