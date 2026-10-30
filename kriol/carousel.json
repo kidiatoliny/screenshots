@@ -31,6 +31,26 @@
       "export": "~/Desktop/blogs/kriol-init-order/",
       "canvas": "https://claude.ai/artifact/FodgbMJYPFepbEjo9nPqC2",
       "style": "~/.claude/styles/kriol.md"
+    },
+    {
+      "feature": "install-checksum",
+      "post": "install-checksum/post.md",
+      "date": "2026-10-30",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "install-checksum/01-mismatch.png",
+          "blob": "8e979c6a55d10ed8b658695b407f0a4948161b01"
+        },
+        {
+          "file": "install-checksum/02-ok.png",
+          "blob": "a73b592f2b45c772198fe69c28221cfede7c2b03"
+        }
+      ],
+      "slides": 7,
+      "export": "~/Desktop/blogs/kriol-install-checksum/",
+      "canvas": "https://claude.ai/artifact/PerEdJ7ktACh4HjmeNtZ8b",
+      "style": "~/.claude/styles/kriol.md"
     }
   ]
 }
