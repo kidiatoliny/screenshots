@@ -127,6 +127,20 @@
       "export": "~/Desktop/blogs/unified-dev-updates/",
       "canvas": "https://claude.ai/artifact/PoBg1WXSwUG7svwFEUzdEj",
       "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "settings",
+      "post": "settings/post.md",
+      "date": "2026-10-30",
+      "status": "draft",
+      "screenshots": [
+        {
+          "file": "settings/01-agents.png",
+          "blob": "95b031921fccb87c6701ac43587b55208437f569"
+        }
+      ],
+      "canvas": "https://claude.ai/artifact/Uk9mm5Ex32XFCnL3dj466q",
+      "style": "~/.claude/styles/unified-dev.md"
     }
   ]
 }
