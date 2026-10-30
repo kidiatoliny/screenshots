@@ -23,3 +23,8 @@ Corrigi também um detalhe curioso: sai(256) terminava com código 0, sucesso, p
 O Kriol é uma linguagem de programação baseada no crioulo de Cabo Verde, criada pelo Anaxímeno Brito.
 
 #Kriol #CaboVerde #segurança
+
+## Screenshots
+
+- `01-mismatch.png`
+- `02-ok.png`
