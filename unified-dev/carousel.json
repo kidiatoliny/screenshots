@@ -132,13 +132,15 @@
       "feature": "settings",
       "post": "settings/post.md",
       "date": "2026-10-30",
-      "status": "draft",
+      "status": "approved",
       "screenshots": [
         {
           "file": "settings/01-agents.png",
           "blob": "95b031921fccb87c6701ac43587b55208437f569"
         }
       ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/unified-dev-settings/",
       "canvas": "https://claude.ai/artifact/Uk9mm5Ex32XFCnL3dj466q",
       "style": "~/.claude/styles/unified-dev.md"
     }
