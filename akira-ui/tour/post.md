@@ -23,3 +23,8 @@ A second bug lived right next to it: a page restored from Inertia's prefetch cac
 Have you been bitten by child effects running before the parent's?
 
 #React #TypeScript #Inertia
+
+## Screenshots
+
+- `01-product-tour.png`
+- `02-last-step.png`
