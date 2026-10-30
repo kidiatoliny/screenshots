@@ -75,6 +75,26 @@
       "export": "~/Desktop/blogs/kriol-exit-codes/",
       "canvas": "https://claude.ai/artifact/LNqrgzhbjmppX2Bo3YMqB9",
       "style": "~/.claude/styles/kriol.md"
+    },
+    {
+      "feature": "ci-pinning",
+      "post": "ci-pinning/post.md",
+      "date": "2026-10-30",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "ci-pinning/01-actions-sha.png",
+          "blob": "316a74af4cafc3c119b36dc19f2ecb81dd09930e"
+        },
+        {
+          "file": "ci-pinning/02-windows-sha256.png",
+          "blob": "8295536d8b56f0c8803edb43bfe4a4b0e6577cc9"
+        }
+      ],
+      "slides": 7,
+      "export": "~/Desktop/blogs/kriol-ci-pinning/",
+      "canvas": "https://claude.ai/artifact/DbMW6A7vjTmGLghoP5uqBH",
+      "style": "~/.claude/styles/kriol.md"
     }
   ]
 }
