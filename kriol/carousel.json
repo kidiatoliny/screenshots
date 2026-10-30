@@ -51,6 +51,30 @@
       "export": "~/Desktop/blogs/kriol-install-checksum/",
       "canvas": "https://claude.ai/artifact/PerEdJ7ktACh4HjmeNtZ8b",
       "style": "~/.claude/styles/kriol.md"
+    },
+    {
+      "feature": "exit-codes",
+      "post": "exit-codes/post.md",
+      "date": "2026-10-30",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "exit-codes/01-sai-256.png",
+          "blob": "e97da0a0c9fa5b1f382a1515382021ba6438886d"
+        },
+        {
+          "file": "exit-codes/02-computed-code.png",
+          "blob": "d3a01657e7c4588f96b93c19aa6b0a977ea8c34e"
+        },
+        {
+          "file": "exit-codes/03-release-exits-0.png",
+          "blob": "0e78713928d320dadb3ffc8fbdc7848b3e5dc217"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/kriol-exit-codes/",
+      "canvas": "https://claude.ai/artifact/LNqrgzhbjmppX2Bo3YMqB9",
+      "style": "~/.claude/styles/kriol.md"
     }
   ]
 }
