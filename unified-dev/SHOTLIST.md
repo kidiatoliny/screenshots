@@ -15,4 +15,4 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [x] `git/02-branch-and-push.png`: a workspace with its branch bar (branch, pull request status, Create pull request) and the Push button.
 - [x] `updates/01-update-alert.png`: Preview opened with `Tools/scenarios/software-update.json`: the update alert with the release notes, the Skip button, and Later as the default button.
 - [x] `spend/01-spend-screen.png`: The spend screen in light appearance: the grouped form, columns ranked by cost, a month of bars with day labels.
-- [ ] `spend/02-by-account.png`: NEEDED BY Sun 01/11 20:00. Preview seeded with two demo accounts (feat(preview): seed the account each agent CLI is signed in to): the spend screen with the By account section showing both accounts.
+- [x] `spend/02-by-account.png`: the spend screen with the By account section showing the Claude Code account and the Codex account, each with its own cost.
