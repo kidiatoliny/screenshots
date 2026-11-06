@@ -5,10 +5,10 @@ How to shoot: browser window on the docs site (light theme unless stated), or th
 
 Screens to capture and their status. Build or open it from an up-to-date main, demo data only, window-only `screencapture` on Retina, never cropped or edited. The post that uses a feature's shots goes in that feature's folder as `post.md` (written by Claude).
 
-- [ ] `overview/01-components-index.png`: NEEDED BY Mon 12/10 15:00. The components index page on ui.akira-io.com, showing the size of the set.
+- [ ] `overview/01-components-index.png`: The components index page on ui.akira-io.com, showing the size of the set. NEEDED BY Mon 16/11 16:00
 - [x] `theming/01-default-purple.png`: A component page (e.g. Button) in the default Akira purple.
 - [x] `theming/02-custom-brand.png`: The same page after swapping the brand with a single CSS import. Same framing as 01 so they work side by side.
-- [ ] `blocks/01-app-shell.png`: one of the application shells (sidebar, header, user menu).
+- [ ] `blocks/01-app-shell.png`: one of the application shells (sidebar, header, user menu). NEEDED BY Thu 19/11 08:00
 - [x] `data-table/01-row-actions.png`: The data table with the row actions menu open and the pagination and rows-per-page controls visible, built from main. Optional `data-table/02-accessibility.png`: the browser accessibility inspector showing the named controls.
 - [x] `tour/01-product-tour.png`: A product tour step from the blocks open over a demo page (the tour popover with its step counter and Next button).
 - [x] `tour/02-last-step.png`: The same tour on its last step, "2 of 2" with Previous and Done.
