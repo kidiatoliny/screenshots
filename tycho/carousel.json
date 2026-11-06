@@ -4,7 +4,7 @@
       "feature": "overview",
       "post": "overview/post.md",
       "date": "2026-11-06",
-      "status": "draft",
+      "status": "approved",
       "screenshots": [
         {
           "file": "overview/01-board.png",
@@ -15,14 +15,18 @@
           "blob": "abaaefd92afae95325621d96905983e299a5bb06"
         },
         {
-          "file": "overview/03-ios.png",
-          "blob": "ca60bbca992b618eb2ae4854908acba166e4cd19"
+          "file": "timeline/01-dependencies.png",
+          "blob": "489f614f15af257412b5f195e4944b59153386e3"
+        },
+        {
+          "file": "overview/04-ios-home.png",
+          "blob": "94cec076aef8d524a232b64bdbf6376e4cb637da"
         }
       ],
-      "slides": null,
-      "export": null,
+      "slides": 7,
+      "export": "~/Desktop/blogs/tycho-overview/",
       "canvas": "https://claude.ai/artifact/8ZHgVL3enc2vXDSePY6qw9",
-      "style": null
+      "style": "~/.claude/styles/tycho.md"
     }
   ]
 }
