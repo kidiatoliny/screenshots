@@ -27,3 +27,4 @@ Screens to capture and their status. Build or open it from an up-to-date main, d
 - [ ] `macos/05-clean-link.png`: Ghostty on macOS arm64: compiling and running a Kriol example with a build that includes PR #34, with no clang or ld warnings in the output. NEEDED BY Thu 12/11 16:00
 - [ ] `spia/02-erru-fields.png`: Ghostty: a Kriol program whose oops (err) block prints err.tipu, err.fixeru and err.linha, and its output. NEEDED BY Sat 14/11 08:00
 - [ ] `molda/02-temp-too-large.png`: Ghostty: compiling a Kriol program with g = [1; 1000000]; inside a function, and the compiler's Portuguese error about the temporary value over the 1048576-byte limit (PR #30). NEEDED BY Fri 20/11 16:00
+- [ ] `parens/01-optional-parens.png`: Ghostty, kriol from main: `cat` of a short program using `si`, `pa` and `nkuantu` headers both with and without parentheses (as in tests/pass/statement_parens.kr), and its output when run (anaximeno, e93ac82).
