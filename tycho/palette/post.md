@@ -15,6 +15,7 @@ Command-K in Tycho opens a palette: suggestions, recent tasks, recent searches a
 ## Screenshots
 
 - `01-command-k.png`
+- `02-search.png`
 
 ---
 
@@ -37,3 +38,4 @@ Keyboard or mouse, how do you move around your task manager?
 ## Screenshots
 
 - `01-command-k.png`
+- `02-search.png`
