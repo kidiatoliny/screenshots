@@ -13,6 +13,6 @@ Source: https://github.com/akira-foundation/tycho (native SwiftUI task manager f
 - [x] `shortcuts/01-sheet.png`: macOS, the keyboard shortcuts sheet (opened with ?) listing the single keys and the G chords. NEEDED BY Sat 14/11 13:00
 - [x] `views/01-filter-builder.png`: macOS, a demo project's task view with the filter builder open, two filter chips applied (status is Open, priority is High). NEEDED BY Sun 15/11 08:00
 - [x] `views/02-saved-view.png`: the same project after saving that filter as a view: the new tab next to the built-in ones. NEEDED BY Sun 15/11 08:00
-- [ ] `files/01-grid.png`: macOS, a demo project's Files tab in grid view with a few demo files (an image, a PDF, a text file). NEEDED BY Tue 17/11 08:00
+- [x] `files/01-grid.png`: macOS, a demo project's Files tab in grid view with a few demo files (an image, a PDF, a text file). NEEDED BY Tue 17/11 08:00
 - [ ] `timeline/01-dependencies.png`: macOS, a demo project's timeline in weeks zoom with task bars, at least one dependency arrow and a milestone. NEEDED BY Wed 18/11 08:00
 - [ ] `design/01-system-accent.png`: macOS, Tycho's board with a non-default system accent colour (e.g. green) set in System Settings, so buttons and selection follow it. NEEDED BY Fri 20/11 08:00
