@@ -95,6 +95,22 @@
       "export": "~/Desktop/blogs/kriol-ci-pinning/",
       "canvas": "https://claude.ai/artifact/DbMW6A7vjTmGLghoP5uqBH",
       "style": "~/.claude/styles/kriol.md"
+    },
+    {
+      "feature": "docs",
+      "post": "docs/post.md",
+      "date": "2026-11-06",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "docs/01-home.png",
+          "blob": "346244c5781225a2bbe0a26d2fd9e0452c6ec779"
+        }
+      ],
+      "slides": 7,
+      "export": "~/Desktop/blogs/kriol-docs/",
+      "canvas": "https://claude.ai/artifact/Hq5ZNFTpYLax7JfNkV6wMJ",
+      "style": "~/.claude/styles/kriol.md"
     }
   ]
 }
