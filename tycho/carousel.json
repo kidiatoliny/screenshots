@@ -1,0 +1,28 @@
+{
+  "carousels": [
+    {
+      "feature": "overview",
+      "post": "overview/post.md",
+      "date": "2026-11-06",
+      "status": "draft",
+      "screenshots": [
+        {
+          "file": "overview/01-board.png",
+          "blob": "9a4e11d6e0a02c1bc42392a6062bfe05a6ee4012"
+        },
+        {
+          "file": "overview/02-views.png",
+          "blob": "abaaefd92afae95325621d96905983e299a5bb06"
+        },
+        {
+          "file": "overview/03-ios.png",
+          "blob": "ca60bbca992b618eb2ae4854908acba166e4cd19"
+        }
+      ],
+      "slides": null,
+      "export": null,
+      "canvas": "https://claude.ai/artifact/8ZHgVL3enc2vXDSePY6qw9",
+      "style": null
+    }
+  ]
+}
