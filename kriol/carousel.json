@@ -111,6 +111,21 @@
       "export": "~/Desktop/blogs/kriol-docs/",
       "canvas": "https://claude.ai/artifact/Hq5ZNFTpYLax7JfNkV6wMJ",
       "style": "~/.claude/styles/kriol.md"
+    },
+    {
+      "feature": "spia",
+      "post": "spia/post.md",
+      "date": "2026-11-06",
+      "status": "draft",
+      "screenshots": [
+        {
+          "file": "spia/01-spia-oops.png",
+          "blob": "9242ae482defdb1fc519652eb1bd6eb57ff378b2"
+        }
+      ],
+      "slides": 8,
+      "canvas": "https://claude.ai/artifact/XBEJ8P4H8gwfoc7ekUk84k",
+      "style": "~/.claude/styles/kriol.md"
     }
   ]
 }
