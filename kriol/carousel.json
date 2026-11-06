@@ -116,7 +116,7 @@
       "feature": "spia",
       "post": "spia/post.md",
       "date": "2026-11-06",
-      "status": "draft",
+      "status": "approved",
       "screenshots": [
         {
           "file": "spia/01-spia-oops.png",
@@ -125,7 +125,8 @@
       ],
       "slides": 8,
       "canvas": "https://claude.ai/artifact/XBEJ8P4H8gwfoc7ekUk84k",
-      "style": "~/.claude/styles/kriol.md"
+      "style": "~/.claude/styles/kriol.md",
+      "export": "~/Desktop/blogs/kriol-spia/"
     }
   ]
 }
