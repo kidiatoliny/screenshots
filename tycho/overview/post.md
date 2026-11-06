@@ -17,6 +17,7 @@ I'm building Tycho, a task manager in SwiftUI for macOS 27 and iOS 27: board, li
 - `01-board.png`
 - `02-views.png`
 - `03-ios.png`
+- `04-ios-home.png`
 
 ---
 
@@ -43,6 +44,7 @@ What do you use to keep track of your own projects?
 - `01-board.png`
 - `02-views.png`
 - `03-ios.png`
+- `04-ios-home.png`
 
 ---
 
