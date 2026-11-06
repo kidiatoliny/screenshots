@@ -7,7 +7,7 @@ Source: https://github.com/akira-foundation/tycho (native SwiftUI task manager f
 - [x] `overview/03-ios.png`: iOS 27 simulator, the same project in the list view. NEEDED BY Mon 09/11 08:00
 - [x] `overview/04-ios-home.png`: iOS 27 simulator, the Home dashboard with the workspace counts and My tasks.
 - [x] `inspector/01-notes-draft.png`: macOS, a task open in the inspector with a description being edited (unsaved), next to the table. NEEDED BY Wed 11/11 08:00
-- [ ] `table/01-inline-edit.png`: macOS table view with the inline title field focused after a click, cursor visible. NEEDED BY Wed 11/11 08:00
+- [x] `table/01-inline-edit.png`: macOS table view with the inline title field focused after a click, cursor visible. NEEDED BY Wed 11/11 08:00
 - [x] `home/01-home.png`: the focused home screen with today's tasks. NEEDED BY Fri 13/11 08:00
 - [x] `palette/01-command-k.png`: macOS, the Command-K palette open over a demo project, with suggestions, recent tasks and a typed search showing results per scope. NEEDED BY Thu 12/11 08:00
 - [x] `palette/02-search.png`: macOS, the Command-K palette with "design" typed, showing task and project results. NEEDED BY Thu 12/11 08:00
