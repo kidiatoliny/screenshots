@@ -10,7 +10,7 @@ Source: https://github.com/akira-foundation/tycho (native SwiftUI task manager f
 - [x] `home/01-home.png`: the focused home screen with today's tasks. NEEDED BY Fri 13/11 08:00
 - [x] `palette/01-command-k.png`: macOS, the Command-K palette open over a demo project, with suggestions, recent tasks and a typed search showing results per scope. NEEDED BY Thu 12/11 08:00
 - [x] `palette/02-search.png`: macOS, the Command-K palette with "design" typed, showing task and project results. NEEDED BY Thu 12/11 08:00
-- [ ] `shortcuts/01-sheet.png`: macOS, the keyboard shortcuts sheet (opened with ?) listing the single keys and the G chords. NEEDED BY Sat 14/11 13:00
+- [x] `shortcuts/01-sheet.png`: macOS, the keyboard shortcuts sheet (opened with ?) listing the single keys and the G chords. NEEDED BY Sat 14/11 13:00
 - [ ] `views/01-filter-builder.png`: macOS, a demo project's task view with the filter builder open, two filter chips applied (status is Open, priority is High). NEEDED BY Sun 15/11 08:00
 - [ ] `views/02-saved-view.png`: the same project after saving that filter as a view: the new tab next to the built-in ones. NEEDED BY Sun 15/11 08:00
 - [ ] `files/01-grid.png`: macOS, a demo project's Files tab in grid view with a few demo files (an image, a PDF, a text file). NEEDED BY Tue 17/11 08:00
