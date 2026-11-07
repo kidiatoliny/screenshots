@@ -24,6 +24,8 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [ ] `canvas/01-editor.png`: a workspace's canvas tab with the floating toolbar, a few shapes, notes and a frame, and one comment pinned on the canvas. Demo project. NEEDED BY Wed 18/11 16:00
 - [ ] `settings/02-run-without-asking.png`: a demo project's settings, Workspaces pane, with the Run commands without asking switch for the orchestrator visible (off). NEEDED BY Thu 19/11 08:00
 - [x] `transcript/03-tasks-sheet.png`: the background tasks list with Running and Finished sections and the Clear button, and a finished command's sheet open with status, type, duration, command and output. Demo project. NEEDED BY Sat 21/11 08:00
+- [x] `transcript/04-held-quotes.png`: three quotes from one answer held as cards above the composer, with a question typed below them. Demo project.
+- [x] `transcript/05-paste-shape.png`: a selection across a list and a code block pasted into the composer, keeping the list numbers and code lines. Demo project.
 - [ ] `workspaces/03-orchestrator-sidebar.png`: a demo project in the sidebar with its orchestrator as the first row (accent connected-points glyph) and the workspaces it started indented under it (68a72b2).
 - [ ] `agent/04-orchestrator-read-list.png`: an orchestrator workspace's transcript where a listed read (e.g. `git status`) was answered by Unified Dev on its own, and a command off the closed read list (e.g. `perl -0pi -e ...`) is waiting for the owner's approval. Demo project (8aad2f4, f93bb26).
 - [ ] `settings/03-workspaces-tab.png`: Settings, the new Workspaces tab, with "archive a workspace once its pull request merges" on and the archived-workspace limits (age and total size) visible (77c9a0b, 6dd62c8, 024d312).

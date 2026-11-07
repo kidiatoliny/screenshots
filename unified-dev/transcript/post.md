@@ -15,6 +15,7 @@ Replying to part of an agent's answer in Unified Dev used to write > lines into 
 ## Screenshots
 
 - `01-reply-card.png`
+- `04-held-quotes.png`
 
 ---
 
@@ -35,6 +36,7 @@ An answer in Unified Dev is now one text view, so a selection runs across paragr
 ## Screenshots
 
 - `02-selection.png`
+- `05-paste-shape.png`
 
 ---
 
