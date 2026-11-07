@@ -19,7 +19,7 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [ ] `agent/03-provider-switch.png`: a demo chat that started on Claude Code and continued on Codex, with the divider between the two visible in the transcript and the model menu showing the new provider. NEEDED BY Tue 10/11 16:00
 - [x] `transcript/01-reply-card.png`: a passage of an agent's answer selected, with the reply card open next to it (quote and reply field), and one quote card already held above the composer. Demo project. NEEDED BY Wed 11/11 16:00
 - [x] `transcript/02-selection.png`: an agent's answer with a selection running from a paragraph through a list and into a code block. Demo project. NEEDED BY Fri 13/11 08:00
-- [ ] `profiles/01-switcher.png`: the sidebar profile switcher open with two demo profiles (e.g. Unified and Work), each showing its own projects. NEEDED BY Mon 16/11 08:00
+- [x] `profiles/01-switcher.png`: the window on the Work demo profile, the sidebar switcher reading Work and only that profile's project (billing-sdk) in the sidebar and on Home. NEEDED BY Mon 16/11 08:00
 - [ ] `composer/01-account-menu.png`: the composer's model menu open with its Account section (demo accounts only, e.g. ada@lovelace.dev) and Change… NEEDED BY Tue 17/11 16:00
 - [ ] `canvas/01-editor.png`: a workspace's canvas tab with the floating toolbar, a few shapes, notes and a frame, and one comment pinned on the canvas. Demo project. NEEDED BY Wed 18/11 16:00
 - [ ] `settings/02-run-without-asking.png`: a demo project's settings, Workspaces pane, with the Run commands without asking switch for the orchestrator visible (off). NEEDED BY Thu 19/11 08:00
