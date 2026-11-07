@@ -22,5 +22,7 @@ Source: https://github.com/akira-foundation/tycho (native SwiftUI task manager f
 - [x] `views/02-saved-view.png`: the same project after saving that filter as a view: the new tab next to the built-in ones. NEEDED BY Sun 15/11 08:00
 - [x] `views/03-save-view-sheet.png`: macOS, the Save View sheet naming the filtered list before it becomes a tab. NEEDED BY Sun 15/11 08:00
 - [x] `files/01-grid.png`: macOS, a demo project's Files tab in grid view with a few demo files (an image, a PDF, a text file). NEEDED BY Tue 17/11 08:00
+- [x] `files/02-ios-grid.png`: iPhone, the demo project's Files view in grid layout with demo files, sizes and authors.
+- [x] `files/03-ios-file-actions.png`: iPhone, a file's context menu with Preview, Rename, Copy Link, Duplicate and Delete.
 - [x] `timeline/01-dependencies.png`: macOS, a demo project's timeline in weeks zoom with task bars, at least one dependency arrow and a milestone. NEEDED BY Wed 18/11 08:00
 - [ ] `design/01-system-accent.png`: macOS, Tycho's board with a non-default system accent colour (e.g. green) set in System Settings, so buttons and selection follow it. NEEDED BY Fri 20/11 08:00
