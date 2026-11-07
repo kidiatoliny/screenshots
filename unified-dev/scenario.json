@@ -41,6 +41,25 @@
           }
         },
         {
+          "name": "Shipping rules",
+          "branch": "docs/shipping-rules",
+          "chats": [
+            {
+              "title": "Shipping rules",
+              "messages": [
+                {
+                  "from": "user",
+                  "text": "Reply in English. Explain how shipping is calculated in this project and where the threshold is set."
+                },
+                {
+                  "from": "agent",
+                  "text": "Shipping is decided in one place, `src/checkout.ts`, and the rules run in this order:\n\n1. An empty cart never pays shipping.\n2. A cart at or over the threshold ships free when the flag is on.\n3. Everything else pays the flat rate of 4.95.\n\nThe threshold lives in `config/features.ts`:\n\n```ts\nexport const features = {\n  freeShipping: true,\n  freeShippingThreshold: 50,\n}\n```\n\nTo see when the rules last changed, run this in the workspace:\n\n```bash\ngit log --oneline -3\n```\n\nRaising the threshold only needs that one number changed. The tests read it from the same file, so they follow."
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Flaky order test",
           "branch": "fix/flaky-order-test",
           "unread": true,
