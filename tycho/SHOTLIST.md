@@ -13,6 +13,7 @@ Source: https://github.com/akira-foundation/tycho (native SwiftUI task manager f
 - [x] `table/02-ios-cards.png`: iPhone table view of Website Redesign, rows shown as cards.
 - [x] `table/03-status-menu.png`: macOS table view with a row's status cell menu open (Backlog to Done).
 - [x] `table/04-assignee-menu.png`: macOS table view with a row's assignee cell menu open.
+- [x] `table/05-inspector.png`: macOS table view with a row clicked once and its inspector open on the right.
 - [x] `home/01-home.png`: the focused home screen with today's tasks. NEEDED BY Fri 13/11 08:00
 - [x] `home/02-overdue-filter.png`: macOS, Tasks opened from the Overdue card on Home, with that filter already applied.
 - [x] `home/03-ios-home.png`: iOS 27 simulator, the Home screen with the counts and My Tasks.
