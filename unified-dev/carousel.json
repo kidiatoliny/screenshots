@@ -167,6 +167,26 @@
       "export": "~/Desktop/blogs/unified-dev-transcript/",
       "canvas": null,
       "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "profiles",
+      "post": "profiles/post.md",
+      "date": "2026-11-07",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "profiles/01-switcher.png",
+          "blob": "074f28fab49b298c9dcb283d0a210d1ddb25bf92"
+        },
+        {
+          "file": "profiles/02-profile-accounts.png",
+          "blob": "8ed207bc5a0a24618e28fa800a28b901db41bb4e"
+        }
+      ],
+      "slides": 5,
+      "export": "~/Desktop/blogs/unified-dev-profiles/",
+      "canvas": null,
+      "style": "~/.claude/styles/unified-dev.md"
     }
   ]
 }
