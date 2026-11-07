@@ -9,6 +9,7 @@ Lesson from Tycho: an inspector loses edits in more ways than closing it. Switch
 ## Screenshots
 
 - `01-notes-draft.png`
+- `02-ios-sheet-edit.png`
 
 ---
 
@@ -31,3 +32,4 @@ What's the sneakiest way your app lost a user's typing?
 ## Screenshots
 
 - `01-notes-draft.png`
+- `02-ios-sheet-edit.png`
