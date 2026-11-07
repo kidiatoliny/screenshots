@@ -71,6 +71,22 @@
       "export": "~/Desktop/blogs/tycho-palette/",
       "canvas": null,
       "style": "~/.claude/styles/tycho.md"
+    },
+    {
+      "feature": "shortcuts",
+      "post": "shortcuts/post.md",
+      "date": "2026-11-07",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "shortcuts/01-sheet.png",
+          "blob": "92d5009ae67a1a718ef62c05866f73b5e4a214d2"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/tycho-shortcuts/",
+      "canvas": null,
+      "style": "~/.claude/styles/tycho.md"
     }
   ]
 }
