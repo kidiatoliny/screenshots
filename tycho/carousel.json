@@ -39,16 +39,16 @@
           "blob": "912bf081b18b8b200e47af10ecdf61ea33cc9518"
         },
         {
-          "file": "table/02-ios-cards.png",
-          "blob": "0ecac07ecc633a02f189ed7d0c1e896e81c1bf7a"
-        },
-        {
           "file": "table/03-status-menu.png",
           "blob": "2c1fabde77eaceef4607d107dc028be01dc8e7ec"
         },
         {
-          "file": "table/04-assignee-menu.png",
-          "blob": "5512393fee2216943f11172a2c686e2bf805e7df"
+          "file": "table/05-inspector.png",
+          "blob": "1ea7ca486fb635e9d1b7af2f65321a237d51ca4b"
+        },
+        {
+          "file": "table/02-ios-cards.png",
+          "blob": "0ecac07ecc633a02f189ed7d0c1e896e81c1bf7a"
         }
       ],
       "slides": 5,
