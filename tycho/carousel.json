@@ -160,11 +160,15 @@
       "feature": "files",
       "post": "files/post.md",
       "date": "2026-11-07",
-      "status": "draft",
+      "status": "approved",
       "screenshots": [
         {
           "file": "files/01-grid.png",
           "blob": "d0716dd6fe0a9a999b947291cf8751c3941c9810"
+        },
+        {
+          "file": "files/04-list.png",
+          "blob": "8a3c1514d5892482eb20ab2b3920b1b9960801ab"
         },
         {
           "file": "files/02-ios-grid.png",
