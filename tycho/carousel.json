@@ -135,6 +135,26 @@
       "export": "~/Desktop/blogs/tycho-home/",
       "canvas": null,
       "style": "~/.claude/styles/tycho.md"
+    },
+    {
+      "feature": "inspector",
+      "post": "inspector/post.md",
+      "date": "2026-11-07",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "inspector/01-notes-draft.png",
+          "blob": "07c77e86b8f2fa745eb7de162d2b20d44b88617f"
+        },
+        {
+          "file": "inspector/02-ios-sheet-edit.png",
+          "blob": "9028eae087455956d2cbdd068e0b70a2ce4eca17"
+        }
+      ],
+      "slides": 5,
+      "export": "~/Desktop/blogs/tycho-inspector/",
+      "canvas": null,
+      "style": "~/.claude/styles/tycho.md"
     }
   ]
 }
