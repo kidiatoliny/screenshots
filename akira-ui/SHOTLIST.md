@@ -5,7 +5,9 @@ How to shoot: browser window on the docs site (light theme unless stated), or th
 
 Screens to capture and their status. Build or open it from an up-to-date main, demo data only, window-only `screencapture` on Retina, never cropped or edited. The post that uses a feature's shots goes in that feature's folder as `post.md` (written by Claude).
 
-- [ ] `overview/01-components-index.png`: The components index page on ui.akira-io.com, showing the size of the set. NEEDED BY Mon 16/11 16:00
+- [x] `overview/01-components-index.png`: The components index page on ui.akira-io.com, showing the size of the set. NEEDED BY Mon 16/11 16:00
+- [x] `overview/02-blocks.png`: The same gallery scrolled to the Blocks section (brand logo, command palette, danger zone).
+- [x] `overview/03-shells.png`: The same gallery scrolled to the Shells section (app content, app shell, content header).
 - [x] `theming/01-default-purple.png`: A component page (e.g. Button) in the default Akira purple.
 - [x] `theming/02-custom-brand.png`: The same page after swapping the brand with a single CSS import. Same framing as 01 so they work side by side.
 - [ ] `blocks/01-app-shell.png`: one of the application shells (sidebar, header, user menu). NEEDED BY Thu 19/11 08:00

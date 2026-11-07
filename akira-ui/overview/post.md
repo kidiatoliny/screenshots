@@ -15,3 +15,5 @@ New here? Akira UI is my React component library: the full shadcn/ui set on OKLC
 ## Screenshots
 
 - `01-components-index.png`
+- `02-blocks.png`
+- `03-shells.png`
