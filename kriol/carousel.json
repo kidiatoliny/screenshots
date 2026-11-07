@@ -127,6 +127,22 @@
       "canvas": "https://claude.ai/artifact/XBEJ8P4H8gwfoc7ekUk84k",
       "style": "~/.claude/styles/kriol.md",
       "export": "~/Desktop/blogs/kriol-spia/"
+    },
+    {
+      "feature": "macos",
+      "post": "macos/post.md",
+      "date": "2026-11-07",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "macos/05-clean-link.png",
+          "blob": "4fe429f10f1d4f9a3c9243327f84f9694aa21ee5"
+        }
+      ],
+      "slides": 7,
+      "export": "~/Desktop/blogs/kriol-macos/",
+      "canvas": null,
+      "style": "~/.claude/styles/kriol.md"
     }
   ]
 }
