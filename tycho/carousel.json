@@ -41,11 +41,19 @@
         {
           "file": "table/02-ios-cards.png",
           "blob": "0ecac07ecc633a02f189ed7d0c1e896e81c1bf7a"
+        },
+        {
+          "file": "table/03-status-menu.png",
+          "blob": "2c1fabde77eaceef4607d107dc028be01dc8e7ec"
+        },
+        {
+          "file": "table/04-assignee-menu.png",
+          "blob": "5512393fee2216943f11172a2c686e2bf805e7df"
         }
       ],
       "slides": 5,
       "export": "~/Desktop/blogs/tycho-table/",
-      "canvas": null,
+      "canvas": "https://claude.ai/artifact/EPH7JGaapPQGiBfCHSMbGP",
       "style": "~/.claude/styles/tycho.md"
     },
     {
