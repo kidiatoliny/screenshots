@@ -32,4 +32,4 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [ ] `transcript/04-run-shell-block.png`: an agent's reply with a bash code block, its run button, and the output shown under the block after it ran. Demo project (c42638d).
 - [ ] `quota/01-grok-usage.png`: the menu bar usage panel showing Grok's quota for the current period and its plan, next to the other agents. Demo account only (dd37550).
 - [ ] `quota/02-other-account.png`: the menu bar limits panel for an agent whose allowance ran out, offering the agent's other demo account, with the note about what switching costs (f809fd5).
-- [ ] `profiles/02-profile-accounts.png`: Profile Settings for a demo profile choosing between its own agent accounts and Unified's, with the profile's default account (#437).
+- [x] `profiles/02-profile-accounts.png`: Profile Settings for a demo profile choosing between its own agent accounts and Unified's, with the profile's default account (#437).

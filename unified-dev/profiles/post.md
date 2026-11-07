@@ -15,6 +15,7 @@ Unified Dev now groups projects into profiles, and the window shows one at a tim
 ## Screenshots
 
 - `01-switcher.png`
+- `02-profile-accounts.png`
 
 ---
 
@@ -39,3 +40,4 @@ How do you keep client work and your own projects apart?
 ## Screenshots
 
 - `01-switcher.png`
+- `02-profile-accounts.png`
