@@ -47,6 +47,30 @@
       "export": "~/Desktop/blogs/tycho-table/",
       "canvas": null,
       "style": "~/.claude/styles/tycho.md"
+    },
+    {
+      "feature": "palette",
+      "post": "palette/post.md",
+      "date": "2026-11-07",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "palette/01-command-k.png",
+          "blob": "29cdc39e01a3e58da57354c8df36ff02ce773004"
+        },
+        {
+          "file": "palette/02-search.png",
+          "blob": "7ba7daf8ee7725bee8dcaec2f195f52435c3146c"
+        },
+        {
+          "file": "palette/03-view-all.png",
+          "blob": "62f5f22e92690b40a9e26ff4421a62789ac175e4"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/tycho-palette/",
+      "canvas": null,
+      "style": "~/.claude/styles/tycho.md"
     }
   ]
 }
