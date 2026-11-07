@@ -17,3 +17,4 @@ Tasks in Tycho can hold files: drop them in or use the picker, up to 250 MB each
 - `01-grid.png`
 - `02-ios-grid.png`
 - `03-ios-file-actions.png`
+- `04-list.png`
