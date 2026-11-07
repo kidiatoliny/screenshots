@@ -16,3 +16,5 @@ Tycho's table view: click a title and you edit it in place. Status, priority, as
 
 - `01-inline-edit.png`
 - `02-ios-cards.png`
+- `03-status-menu.png`
+- `04-assignee-menu.png`
