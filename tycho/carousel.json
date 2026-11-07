@@ -111,6 +111,30 @@
       "export": "~/Desktop/blogs/tycho-views/",
       "canvas": null,
       "style": "~/.claude/styles/tycho.md"
+    },
+    {
+      "feature": "home",
+      "post": "home/post.md",
+      "date": "2026-11-07",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "home/01-home.png",
+          "blob": "0127a009555913c6794f3a3211e8b3623a73737e"
+        },
+        {
+          "file": "home/02-overdue-filter.png",
+          "blob": "1bdb7f08229e6e62e58cef2b86a6836ad79d0b28"
+        },
+        {
+          "file": "home/03-ios-home.png",
+          "blob": "4e970a8fa53f67123ec046265be6b118666d4724"
+        }
+      ],
+      "slides": 5,
+      "export": "~/Desktop/blogs/tycho-home/",
+      "canvas": null,
+      "style": "~/.claude/styles/tycho.md"
     }
   ]
 }
