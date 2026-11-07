@@ -16,3 +16,4 @@ Filters in Tycho: status, assignee, priority, due date, project, labels, created
 
 - `01-filter-builder.png`
 - `02-saved-view.png`
+- `03-save-view-sheet.png`
