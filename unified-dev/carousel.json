@@ -143,6 +143,30 @@
       "export": "~/Desktop/blogs/unified-dev-settings/",
       "canvas": "https://claude.ai/artifact/Uk9mm5Ex32XFCnL3dj466q",
       "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "transcript",
+      "post": "transcript/post.md",
+      "date": "2026-11-07",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "transcript/01-reply-card.png",
+          "blob": "3e4ad1f98c8dded03817c80d9f49233872d8ce26"
+        },
+        {
+          "file": "transcript/02-selection.png",
+          "blob": "eeb708011904e22e53c31b42c529353997b29f20"
+        },
+        {
+          "file": "transcript/03-tasks-sheet.png",
+          "blob": "18f1a63d39a65aebe8073da57547ed7da2dda58c"
+        }
+      ],
+      "slides": 5,
+      "export": "~/Desktop/blogs/unified-dev-transcript/",
+      "canvas": null,
+      "style": "~/.claude/styles/unified-dev.md"
     }
   ]
 }
