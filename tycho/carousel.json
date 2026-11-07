@@ -87,6 +87,30 @@
       "export": "~/Desktop/blogs/tycho-shortcuts/",
       "canvas": null,
       "style": "~/.claude/styles/tycho.md"
+    },
+    {
+      "feature": "views",
+      "post": "views/post.md",
+      "date": "2026-11-07",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "views/01-filter-builder.png",
+          "blob": "c224c21e0d62a296b7318c2cdf6bed4593bd9923"
+        },
+        {
+          "file": "views/02-saved-view.png",
+          "blob": "2a1c64e60bb09170dc1021d59a6c47e614dbf463"
+        },
+        {
+          "file": "views/03-save-view-sheet.png",
+          "blob": "a82f1042c24b4568ad6e73e659c9033c10ef16ef"
+        }
+      ],
+      "slides": 7,
+      "export": "~/Desktop/blogs/tycho-views/",
+      "canvas": null,
+      "style": "~/.claude/styles/tycho.md"
     }
   ]
 }
