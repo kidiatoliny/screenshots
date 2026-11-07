@@ -3,24 +3,24 @@
     {
       "feature": "overview",
       "post": "overview/post.md",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "status": "approved",
       "screenshots": [
         {
           "file": "overview/01-board.png",
-          "blob": "9a4e11d6e0a02c1bc42392a6062bfe05a6ee4012"
+          "blob": "0c4835afe2d40708b8fc087c02e6bf1a363faa9c"
         },
         {
           "file": "overview/02-views.png",
-          "blob": "abaaefd92afae95325621d96905983e299a5bb06"
-        },
-        {
-          "file": "timeline/01-dependencies.png",
-          "blob": "489f614f15af257412b5f195e4944b59153386e3"
+          "blob": "e3b8d9efd95a86d85cc7614a7b8c4ac7d3991be3"
         },
         {
           "file": "overview/04-ios-home.png",
-          "blob": "94cec076aef8d524a232b64bdbf6376e4cb637da"
+          "blob": "5087aa15f685f5b8e8bfc36838c7e478366f75c9"
+        },
+        {
+          "file": "overview/05-timeline.png",
+          "blob": "5ca4dc791383627a010f2119b6222bf22a229a3f"
         }
       ],
       "slides": 7,
