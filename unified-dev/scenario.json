@@ -136,7 +136,8 @@
             }
           ]
         }
-      ]
+      ],
+      "profile": "Work"
     },
     {
       "name": "docs-site",
@@ -209,5 +210,30 @@
         "version": "0.1.0"
       }
     ]
-  }
+  },
+  "profiles": [
+    {
+      "name": "Work",
+      "colour": "E06C2A",
+      "symbol": "briefcase"
+    }
+  ],
+  "accounts": [
+    {
+      "provider": "claudeCode",
+      "email": "alex@unified.example",
+      "displayName": "Alex",
+      "plan": "max"
+    },
+    {
+      "provider": "claudeCode",
+      "email": "alex@northwind.example",
+      "displayName": "Alex",
+      "organisation": "Northwind",
+      "plan": "team",
+      "label": "work",
+      "profile": "Work",
+      "isProfileDefault": true
+    }
+  ]
 }
