@@ -15,3 +15,5 @@ Tycho opens on Home: today's tasks, and cards for what's open, done and overdue.
 ## Screenshots
 
 - `01-home.png`
+- `02-overdue-filter.png`
+- `03-ios-home.png`

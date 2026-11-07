@@ -11,6 +11,8 @@ Source: https://github.com/akira-foundation/tycho (native SwiftUI task manager f
 - [x] `table/01-inline-edit.png`: macOS table view with the inline title field focused after a click, cursor visible. NEEDED BY Wed 11/11 08:00
 - [x] `table/02-ios-cards.png`: iPhone table view of Website Redesign, rows shown as cards.
 - [x] `home/01-home.png`: the focused home screen with today's tasks. NEEDED BY Fri 13/11 08:00
+- [x] `home/02-overdue-filter.png`: macOS, Tasks opened from the Overdue card on Home, with that filter already applied.
+- [x] `home/03-ios-home.png`: iOS 27 simulator, the Home screen with the counts and My Tasks.
 - [x] `palette/01-command-k.png`: macOS, the Command-K palette open over a demo project, with suggestions, recent tasks and navigation, the field empty. NEEDED BY Thu 12/11 08:00
 - [x] `palette/02-search.png`: macOS, the Command-K palette with "design" typed, showing task and project results. NEEDED BY Thu 12/11 08:00
 - [x] `palette/03-view-all.png`: macOS, the Search page opened from "View all results" for "design", with a count per scope.
