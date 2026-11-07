@@ -18,6 +18,7 @@ I'm building Tycho, a task manager in SwiftUI for macOS 27 and iOS 27: board, li
 - `02-views.png`
 - `03-ios.png`
 - `04-ios-home.png`
+- `05-timeline.png`
 
 ---
 
