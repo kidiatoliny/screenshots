@@ -27,6 +27,26 @@
       "export": "~/Desktop/blogs/tycho-overview/",
       "canvas": "https://claude.ai/artifact/8ZHgVL3enc2vXDSePY6qw9",
       "style": "~/.claude/styles/tycho.md"
+    },
+    {
+      "feature": "table",
+      "post": "table/post.md",
+      "date": "2026-11-07",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "table/01-inline-edit.png",
+          "blob": "912bf081b18b8b200e47af10ecdf61ea33cc9518"
+        },
+        {
+          "file": "table/02-ios-cards.png",
+          "blob": "c1eda55e596f8fbf862e0769c926a72044d4d315"
+        }
+      ],
+      "slides": 5,
+      "export": "~/Desktop/blogs/tycho-table/",
+      "canvas": null,
+      "style": "~/.claude/styles/tycho.md"
     }
   ]
 }
