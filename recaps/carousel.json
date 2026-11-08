@@ -1,0 +1,36 @@
+{
+  "carousels": [
+    {
+      "feature": "2026-11-14",
+      "post": "2026-11-14/post.md",
+      "date": "2026-11-08",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "../tycho/overview/01-board.png",
+          "blob": "0c4835afe2d40708b8fc087c02e6bf1a363faa9c"
+        },
+        {
+          "file": "../tycho/palette/01-command-k.png",
+          "blob": "29cdc39e01a3e58da57354c8df36ff02ce773004"
+        },
+        {
+          "file": "../kriol/spia/01-spia-oops.png",
+          "blob": "9242ae482defdb1fc519652eb1bd6eb57ff378b2"
+        },
+        {
+          "file": "../unified-dev/agent/03-provider-switch.png",
+          "blob": "9afd0bb8ba8c8aa28fa95f6bf379d4bc5c94740e"
+        },
+        {
+          "file": "../tycho/home/01-home.png",
+          "blob": "0127a009555913c6794f3a3211e8b3623a73737e"
+        }
+      ],
+      "slides": 5,
+      "export": "~/Desktop/blogs/recaps-2026-11-14/",
+      "canvas": "https://claude.ai/artifact/QqrUm1Jr3yN2sdr63oPgfA",
+      "style": "~/.claude/styles/recaps.md"
+    }
+  ]
+}
