@@ -31,6 +31,42 @@
       "export": "~/Desktop/blogs/recaps-2026-11-14/",
       "canvas": "https://claude.ai/artifact/QqrUm1Jr3yN2sdr63oPgfA",
       "style": "~/.claude/styles/recaps.md"
+    },
+    {
+      "feature": "2026-11-21",
+      "post": "2026-11-21/post.md",
+      "date": "2026-11-08",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "../tycho/timeline/02-months-all-projects.png",
+          "blob": "bc3cbd933381407ebbd82c0be181c4c59fcbe638"
+        },
+        {
+          "file": "../unified-dev/profiles/01-switcher.png",
+          "blob": "074f28fab49b298c9dcb283d0a210d1ddb25bf92"
+        },
+        {
+          "file": "../unified-dev/canvas/01-editor.png",
+          "blob": "a620e1f82df4001a7ffcd86159b2afb263bf8f59"
+        },
+        {
+          "file": "../tycho/timeline/01-dependencies.png",
+          "blob": "489f614f15af257412b5f195e4944b59153386e3"
+        },
+        {
+          "file": "../kriol/molda/02-temp-too-large.png",
+          "blob": "c5c34b76f998fb7a24493b5af27ddd1751b52486"
+        },
+        {
+          "file": "../tycho/files/01-grid.png",
+          "blob": "d0716dd6fe0a9a999b947291cf8751c3941c9810"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/recaps-2026-11-21/",
+      "canvas": "https://claude.ai/artifact/XUhMNzT3PkLa48n7vSt49D",
+      "style": "~/.claude/styles/recaps.md"
     }
   ]
 }
