@@ -143,6 +143,30 @@
       "export": "~/Desktop/blogs/kriol-macos/",
       "canvas": "https://claude.ai/artifact/EXFN2cEhQFMaxrz3SrdwFV",
       "style": "~/.claude/styles/kriol.md"
+    },
+    {
+      "feature": "molda",
+      "post": "molda/post.md",
+      "date": "2026-11-08",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "molda/02-temp-too-large.png",
+          "blob": "c5c34b76f998fb7a24493b5af27ddd1751b52486"
+        },
+        {
+          "file": "molda/03-return-too-large.png",
+          "blob": "ee93367c20bfb0319171040759353f78803b08d1"
+        },
+        {
+          "file": "molda/04-large-global.png",
+          "blob": "7d2a28f6243c3c775c7afdd7de1ac4fd9dd1f850"
+        }
+      ],
+      "slides": 5,
+      "export": "~/Desktop/blogs/kriol-molda/",
+      "canvas": "https://claude.ai/artifact/WeeYa2h5a1Amo6Q34xHR5v",
+      "style": "~/.claude/styles/kriol.md"
     }
   ]
 }
