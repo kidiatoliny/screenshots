@@ -15,3 +15,8 @@ The canvas tab in Unified Dev now has its own editor: text, notes, shapes, pen, 
 ## Screenshots
 
 - `01-editor.png`
+- `02-text-inspector.png`
+- `03-shape-menu.png`
+- `04-pen-stroke.png`
+- `05-comments-panel.png`
+- `06-png-export.png`

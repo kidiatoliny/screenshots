@@ -27,6 +27,11 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [x] `composer/05-menu-shipping-rules.png`: the model menu in another workspace of the project, Account reading ada@lovelace.dev.
 - [x] `composer/06-menu-flaky-order-test.png`: the model menu in a third workspace of the project, Account reading the same ada@lovelace.dev.
 - [x] `canvas/01-editor.png`: a workspace's canvas tab with the floating toolbar, a few shapes, notes and a frame, and one comment pinned on the canvas. Demo project.
+- [x] `canvas/02-text-inspector.png`: a text element selected on a demo canvas frame, with the inspector open (font, size, weight, colour, appearance, shadow, frame).
+- [x] `canvas/03-shape-menu.png`: the shape tool selected and its menu open (Rectangle, Ellipse, Line, Arrow).
+- [x] `canvas/04-pen-stroke.png`: a freehand pen stroke drawn around an element of the frame, pen tool active.
+- [x] `canvas/05-comments-panel.png`: the Comments panel open with one comment and its Send, Edit and Delete buttons.
+- [x] `canvas/06-png-export.png`: the notice after exporting, "Exported 1 frame to canvases/canvas.export", and the PNG listed in the files panel.
 - [ ] `settings/02-run-without-asking.png`: a demo project's settings, Workspaces pane, with the Run commands without asking switch for the orchestrator visible (off). NEEDED BY Thu 19/11 08:00
 - [x] `transcript/03-tasks-sheet.png`: the background tasks list with Running and Finished sections and the Clear button, and a finished command's sheet open with status, type, duration, command and output. Demo project. NEEDED BY Sat 21/11 08:00
 - [x] `transcript/04-held-quotes.png`: three quotes from one answer held as cards above the composer, with a question typed below them. Demo project.
