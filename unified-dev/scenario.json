@@ -103,7 +103,39 @@
         },
         {
           "name": "Upgrade Vitest",
-          "branch": "chore/upgrade-vitest"
+          "branch": "chore/upgrade-vitest",
+          "chats": [
+            {
+              "title": "Upgrade Vitest",
+              "agent": "claudeCode",
+              "model": "opus",
+              "messages": [
+                {
+                  "from": "user",
+                  "text": "Reply in English. Add Vitest 3 as a dev dependency and check the test script still runs."
+                },
+                {
+                  "from": "agent",
+                  "text": "I added vitest ^3.2.0 to devDependencies in package.json. The test script stays `vitest run`. The next step is running the suite."
+                },
+                {
+                  "from": "agent",
+                  "handoff": {
+                    "agent": "codex",
+                    "model": "gpt-5.6-sol"
+                  }
+                },
+                {
+                  "from": "user",
+                  "text": "Run the tests and tell me what fails."
+                },
+                {
+                  "from": "agent",
+                  "text": "I read what Claude Code changed in package.json and ran `vitest run`. The suite runs on Vitest 3 and every test passes, so nothing fails."
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -224,6 +256,13 @@
       "email": "alex@unified.example",
       "displayName": "Alex",
       "plan": "max"
+    },
+    {
+      "provider": "claudeCode",
+      "email": "ada@lovelace.dev",
+      "displayName": "Ada",
+      "plan": "pro",
+      "label": "side"
     },
     {
       "provider": "claudeCode",
