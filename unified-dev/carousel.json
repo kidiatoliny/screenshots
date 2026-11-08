@@ -203,6 +203,42 @@
       "export": "~/Desktop/blogs/unified-dev-profiles/",
       "canvas": "https://claude.ai/artifact/PkGFPE7y9hq8y9j8PRk2sP",
       "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "composer",
+      "post": "composer/post.md",
+      "date": "2026-11-08",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "composer/01-account-menu.png",
+          "blob": "71f621bfd519e3b4476c26bd3e8d12ad026013b5"
+        },
+        {
+          "file": "composer/02-project-agents-default.png",
+          "blob": "d86d83251783a28e225dce63cc5eb6b84c85c906"
+        },
+        {
+          "file": "composer/03-account-picker.png",
+          "blob": "6c72c5cb4071d118e3d008bdb061b71c0baaf6c2"
+        },
+        {
+          "file": "composer/04-project-agents-chosen.png",
+          "blob": "4b123d9bb2df0c28359c03e231bae8e30bc2f75a"
+        },
+        {
+          "file": "composer/05-menu-shipping-rules.png",
+          "blob": "186195cf5aad7a6b0392534f362ab4227ed81a60"
+        },
+        {
+          "file": "composer/06-menu-flaky-order-test.png",
+          "blob": "7aabaf764a3c1d7c0894d277b1365dd69c3a3d04"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/unified-dev-composer/",
+      "canvas": "https://claude.ai/artifact/9wgu7J9SbQwEkD3yuDJdp8",
+      "style": "~/.claude/styles/unified-dev.md"
     }
   ]
 }
