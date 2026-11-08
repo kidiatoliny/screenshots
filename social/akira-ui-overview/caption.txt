@@ -1,0 +1,9 @@
+New here? Akira UI is my React component library.
+
+The full shadcn/ui set on OKLCH design tokens, purple by default. The gallery shows 108 entries rendering live: components, blocks that assume a shape of page, and shells that take your router as a prop. One CSS import swaps in your brand without touching a component. It also has product tours and a data table.
+
+Swipe → for the key points.
+Docs → https://ui.akira-io.com
+
+—
+#react #shadcn #typescript #devtools #engineering #dx

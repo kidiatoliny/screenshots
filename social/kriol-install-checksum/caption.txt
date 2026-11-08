@@ -1,0 +1,9 @@
+O instalador do Kriol já não instala um arquivo que não confere.
+
+O install.sh descarregava o compilador e extraía-o sem verificar nada. Agora compara o SHA256 com o SHA256SUMS.txt da mesma release e para antes de extrair se não bater.
+
+Desliza → para os pontos principais.
+Docs → https://docs.kriol.dev
+
+—
+#kriol #caboverde #capeverde #devtools #engineering #dx

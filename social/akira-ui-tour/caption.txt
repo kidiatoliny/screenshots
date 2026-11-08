@@ -1,0 +1,9 @@
+The Akira UI tour that read the last user's progress.
+
+A child component started its tour in its own effect, which runs before the parent's, and the parent's effect was the one clearing the last user's progress. Now the provider reads and writes recorded tour versions per signed-in owner, so effect order stops mattering.
+
+Swipe → for the key points.
+Docs → https://ui.akira-io.com
+
+—
+#react #typescript #inertia #devtools #engineering #dx

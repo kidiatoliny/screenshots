@@ -1,0 +1,9 @@
+Tycho: the files sit with the work.
+
+Tasks can hold files, up to 250 MB each, in a grid or a list. On iPhone, press and hold a file to preview, rename, duplicate or delete it.
+
+Swipe → for the key points.
+Code → https://github.com/akira-foundation/tycho
+
+—
+#devtools #engineering #productengineering #dx #indiehacker #luxembourg #capeverde

@@ -1,0 +1,9 @@
+The canvas tab gets its own editor.
+
+The canvas tab in Unified Dev now has its own editor: text, notes, shapes, pen, frames, images, PNG export and undo. Comments you place on the canvas reach the agent when it's idle, and wait in a queue while it works.
+
+Swipe → for the key points.
+Unified Dev → https://unifieddev.app
+
+—
+#Swift #macOS #unifieddev #devtools #dx #indiehacker

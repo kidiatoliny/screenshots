@@ -1,0 +1,9 @@
+Don't ask the CLI who it is.
+
+To know which account an agent CLI is signed in to, Unified Dev stopped asking the CLI. In my tests, claude auth status took the identity from the environment before the config directory, and said loggedIn for a forged token. Now the app reads the account's own directory.
+
+Swipe → for the key points.
+Unified Dev → https://unifieddev.app
+
+—
+#unifieddev #devtools #dx #engineering #productengineering #indiehacker

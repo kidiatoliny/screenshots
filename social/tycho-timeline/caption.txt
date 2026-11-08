@@ -1,0 +1,9 @@
+Tycho: the timeline.
+
+Task bars you drag to shift dates, arrows for dependencies, milestones, and grouping by status, project or assignee, in weeks or months. The calendar works the same way: drag a task to another day.
+
+Swipe → for the key points.
+Code → https://github.com/akira-foundation/tycho
+
+—
+#swiftui #macos #ios #devtools #indiehacker #luxembourg #capeverde

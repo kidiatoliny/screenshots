@@ -1,0 +1,9 @@
+The hard part of Cabo Verde's e-Fatura, as a Node.js package.
+
+@akira-io/efatura validates the fiscal document, generates the DFE XML, packages the ZIP and signs it with XAdES-BES. Adapters for Express, Fastify and Nest. Still in beta.
+
+Swipe → for the key points.
+Package → https://github.com/akira-io/node-efatura
+
+—
+#typescript #devtools #engineering #dx #productengineering #capeverde

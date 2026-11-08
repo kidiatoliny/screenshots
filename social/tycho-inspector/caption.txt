@@ -1,0 +1,9 @@
+Tycho: the inspector saves first.
+
+An inspector loses edits in more ways than closing it. Switching task, changing layout, opening a new-task sheet, closing the window. Each one now saves the title, estimate and description you were typing first. A draft for a task that a data reset removed is skipped instead of bringing the task back.
+
+Swipe → for the key points.
+Code → https://github.com/akira-foundation/tycho
+
+—
+#swiftui #macos #ios #devtools #indiehacker #luxembourg #capeverde

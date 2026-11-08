@@ -1,0 +1,9 @@
+One Mac, one login, one sidebar. That assumption lasted about a week.
+
+Unified Dev 1.2 gives every project its own agent account, groups projects into profiles with their own worktree folder, and lets a chat change account mid-turn when the allowance runs out, without losing its history.
+
+Swipe → for the key points.
+Full post → https://kid.akira-io.com/writing/unified-dev-1-2-0
+
+—
+#unifieddev #devtools #macos #swiftui #engineering #dx #productengineering #indiehacker

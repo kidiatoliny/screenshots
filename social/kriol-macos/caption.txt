@@ -1,0 +1,9 @@
+Kriol: compilação limpa no macOS.
+
+No macOS arm64, cada compilação imprimia umas 21 linhas de avisos do clang e do ld, com o executável certo. Duas causas: o -no-pie ia para o macOS, onde o PIE é obrigatório, e a ligação não pedia a versão de macOS com que a libgc foi feita. Agora o configure guarda essa versão, a ligação pede a mesma, e dois testes novos vigiam que fica assim.
+
+Desliza → para os pontos principais.
+Docs → https://docs.kriol.dev
+
+—
+#kriol #caboverde #capeverde #programming #compilers #opensource #macos

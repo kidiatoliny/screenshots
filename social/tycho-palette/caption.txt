@@ -1,0 +1,9 @@
+Tycho: press Command-K and go anywhere.
+
+The palette opens with suggestions, recent tasks and navigation. Type and it finds tasks and projects, grouped by scope; View all opens a search page with a count per scope. Arrow keys, Return, Tab and Escape drive it. Single keys and G chords navigate too, and they stand down while you type, while a sheet is open, and during onboarding.
+
+Swipe → for the key points.
+Code → https://github.com/akira-foundation/tycho
+
+—
+#swiftui #macos #ios #devtools #indiehacker #luxembourg #capeverde

@@ -1,0 +1,9 @@
+O compilador do Kriol agora diz o que fazer: declara 'c' antes de 'a'.
+
+Se o valor inicial de uma global chamava uma função que lia outra global ainda sem valor, o compilador deixava passar. Agora segue as chamadas e recusa, em português.
+
+Desliza → para os pontos principais.
+Docs → https://docs.kriol.dev
+
+—
+#kriol #caboverde #capeverde #devtools #engineering #dx

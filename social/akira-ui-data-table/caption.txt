@@ -1,0 +1,9 @@
+Every control in the Akira UI data table now has a name.
+
+The row actions button, the previous and next page buttons and the rows-per-page select showed up as unnamed controls to screen readers. Each now has a label, translated in pt, es and fr, and you can override it through props.
+
+Swipe → for the key points.
+Docs → https://ui.akira-io.com
+
+—
+#react #a11y #shadcn #devtools #engineering #dx

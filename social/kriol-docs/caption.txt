@@ -1,0 +1,9 @@
+Contribuo para o Kriol. Pergunta-me o que quiseres.
+
+O Kriol é uma linguagem de programação em crioulo de Cabo Verde. Pergunta sobre o compilador, o spia e oops, ou como começar a contribuir. Respondo nas respostas.
+
+Desliza → para os pontos principais.
+Docs → https://docs.kriol.dev
+
+—
+#kriol #caboverde #capeverde #devtools #engineering

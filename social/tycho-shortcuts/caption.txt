@@ -1,0 +1,9 @@
+Tycho: keyboard shortcuts that stay out of the way.
+
+Press ? and every key is on one sheet. N, P and / need no Command key, and G starts a chord: G then H goes Home, G then T to My Tasks. In a text field N is just the letter N, and with a sheet open nothing fires behind it. Onboarding was the last leak: a shortcut pressed before the workspace existed used to fire once it did. Now a new workspace drops it and opens on Home.
+
+Swipe → for the key points.
+Code → https://github.com/akira-foundation/tycho
+
+—
+#swiftui #macos #ios #devtools #indiehacker #luxembourg #capeverde

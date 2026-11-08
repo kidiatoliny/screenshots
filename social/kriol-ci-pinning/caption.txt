@@ -1,0 +1,9 @@
+As GitHub Actions do Kriol passam a ser referidas pelo SHA do commit.
+
+E os toolchains do CI de Windows só são extraídos se o SHA256 bater. O runtime do MinGW entra em todos os programas compilados, por isso isto conta.
+
+Desliza → para os pontos principais.
+Docs → https://docs.kriol.dev
+
+—
+#kriol #caboverde #capeverde #devtools #engineering #githubactions

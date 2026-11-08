@@ -1,0 +1,14 @@
+Weekly recap.
+
+This week in my projects:
+
+- Tycho showed its board, table, palette and Home
+- Kriol got spia, oops and sempri for try, catch and finally
+- Unified Dev chats switch provider without losing history
+- Orbit's Swift rewrite got its data layer and project analysis
+
+Swipe → for the key points.
+More → https://kid.akira-io.com
+
+—
+#swift #kriol #macos #devtools #indiehacker #luxembourg #capeverde

@@ -1,0 +1,9 @@
+The agent's account, in the model menu.
+
+In Unified Dev the agent's account now sits in the model menu, under Account, and only when that agent has two or more accounts on the Mac. Change… opens the project's Agents settings, where you pick the account. The choice is per project: every workspace and chat in it runs the same account.
+
+Swipe → for the key points.
+Unified Dev → https://unifieddev.app
+
+—
+#Swift #macOS #unifieddev #devtools #dx #indiehacker

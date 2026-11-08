@@ -1,0 +1,9 @@
+Tycho: one set of tasks, five ways to see it.
+
+A native task manager in SwiftUI for macOS 27 and iOS 27. Board, list, table, calendar and timeline over the same tasks, stored on-device with SwiftData.
+
+Swipe → for the key points.
+Code → https://github.com/akira-foundation/tycho
+
+—
+#devtools #engineering #productengineering #dx #indiehacker #luxembourg #capeverde

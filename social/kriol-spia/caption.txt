@@ -1,0 +1,9 @@
+O Kriol já apanha os seus erros: spia, oops e sempri, o try, catch e finally da linguagem em crioulo de Cabo Verde.
+
+Apanha os erros lançados com lansa e tenta, e também os de execução: divisão por zero, índice fora do array, konfirma e paniku. O Erru diz que erro foi, em que ficheiro e em que linha. Um programa sem spia compila para o mesmo código de antes.
+
+Desliza → para os pontos principais.
+Docs → https://docs.kriol.dev
+
+—
+#kriol #caboverde #capeverde #programming #compilers #opensource

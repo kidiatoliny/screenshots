@@ -1,0 +1,9 @@
+No Kriol, sai(256) já não termina com sucesso.
+
+O sistema só guarda os 8 bits de baixo do código de saída: sai(256) terminava com 0 e sai(-1) dava 255. Agora o compilador recusa um código literal fora de 0 a 255, e um código calculado para o programa com erro.
+
+Desliza → para os pontos principais.
+Docs → https://docs.kriol.dev
+
+—
+#kriol #caboverde #capeverde #devtools #engineering #dx

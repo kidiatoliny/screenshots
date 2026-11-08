@@ -1,0 +1,9 @@
+Tycho: it opens on Home.
+
+Four cards count the whole workspace: active projects, open tasks, what got done this week and what is overdue. Each card opens its own list, so Overdue takes you straight to the overdue tasks from every project. Below, My Tasks splits into upcoming, overdue and completed, and every project shows how far along it is. The same Home runs on iPhone.
+
+Swipe → for the key points.
+Code → https://github.com/akira-foundation/tycho
+
+—
+#swiftui #macos #ios #devtools #indiehacker #luxembourg #capeverde

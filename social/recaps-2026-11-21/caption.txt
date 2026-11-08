@@ -1,0 +1,15 @@
+Weekly recap.
+
+This week in my projects:
+
+- Unified Dev groups projects into profiles
+- its canvas tab got a real editor
+- Tycho showed its timeline, files and filters
+- Kriol refuses stack temporaries over 1 MiB
+- Orbit's dev server supervisor is in review
+
+Swipe → for the key points.
+More → https://kid.akira-io.com
+
+—
+#swift #kriol #macos #devtools #indiehacker #luxembourg #capeverde

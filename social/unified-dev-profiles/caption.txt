@@ -1,0 +1,9 @@
+Client work and your own projects, apart.
+
+Unified Dev now groups projects into profiles, and the window shows one at a time. Control-Command and a digit switches profile, and no agent stops when you do. A profile can sign in with its own agent accounts, and a project moves between profiles with its workspaces and chats.
+
+Swipe → for the key points.
+Unified Dev → https://unifieddev.app
+
+—
+#unifieddev #devtools #dx #engineering #productengineering #indiehacker

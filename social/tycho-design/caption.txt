@@ -1,0 +1,9 @@
+Tycho: follows the system accent.
+
+Tycho had an accent colour picker. I removed it: the app now follows the accent you picked for macOS or iOS. One less setting, and it matches everything else on your device.
+
+Swipe → for the key points.
+Code → https://github.com/akira-foundation/tycho
+
+—
+#swiftui #macos #ios #devtools #indiehacker #luxembourg #capeverde

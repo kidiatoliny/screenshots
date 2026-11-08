@@ -1,0 +1,9 @@
+Tycho: rename a task right in the row.
+
+Double-click a title in the table view and it becomes a text field. Status, priority, assignee, dates, labels, dependencies and estimate edit inline too. Columns sort, resize and hide, and each view keeps its own. On iPhone the rows become cards.
+
+Swipe → for the key points.
+Code → https://github.com/akira-foundation/tycho
+
+—
+#swiftui #macos #ios #devtools #indiehacker #luxembourg #capeverde

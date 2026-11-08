@@ -1,0 +1,9 @@
+Tycho: filter the list, keep it as a tab.
+
+Filters work on eight fields: status, assignee, priority, due date, project, labels, created and updated, each with is or is not. Stack them and every one narrows the list; tick several values in one filter and a task matches when any of them does. When the list is right, save it as a view with a name and a layout. It becomes a tab next to All Tasks, one click away.
+
+Swipe → for the key points.
+Code → https://github.com/akira-foundation/tycho
+
+—
+#swiftui #macos #ios #devtools #indiehacker #luxembourg #capeverde

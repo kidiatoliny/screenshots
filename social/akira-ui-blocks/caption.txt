@@ -1,0 +1,9 @@
+The app shell, already built.
+
+Akira UI ships blocks, not just components. The application shell gives you the sidebar, header and user menu already put together, so a new app starts from a working layout instead of an empty page.
+
+Swipe → for the key points.
+Docs → https://ui.akira-io.com
+
+—
+#react #shadcn #typescript #devtools #engineering #dx

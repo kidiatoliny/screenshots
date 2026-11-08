@@ -1,0 +1,9 @@
+Sunday check-in.
+
+This week Unified Dev got profiles and a canvas editor, Tycho showed its timeline, files and filters, and Orbit in Swift has its server supervisor in review. Which one do you want to see more of?
+
+Swipe → for the key points.
+More → https://kid.akira-io.com
+
+—
+#swift #swiftui #macos #devtools #indiehacker #luxembourg #capeverde
