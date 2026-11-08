@@ -239,6 +239,42 @@
       "export": "~/Desktop/blogs/unified-dev-composer/",
       "canvas": "https://claude.ai/artifact/9wgu7J9SbQwEkD3yuDJdp8",
       "style": "~/.claude/styles/unified-dev.md"
+    },
+    {
+      "feature": "canvas",
+      "post": "canvas/post.md",
+      "date": "2026-11-08",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "canvas/01-editor.png",
+          "blob": "a620e1f82df4001a7ffcd86159b2afb263bf8f59"
+        },
+        {
+          "file": "canvas/02-text-inspector.png",
+          "blob": "55560d150597af4f4046ad23d22f75ef2801479c"
+        },
+        {
+          "file": "canvas/03-shape-menu.png",
+          "blob": "2c79737a7ed2e6c55841863222c75486a8715f5a"
+        },
+        {
+          "file": "canvas/04-pen-stroke.png",
+          "blob": "081fcfa6b90dcf0fd5f15803134dc8193e9a99aa"
+        },
+        {
+          "file": "canvas/05-comments-panel.png",
+          "blob": "942915aceae2438ee9fb6265d6a85a59ab1a33c0"
+        },
+        {
+          "file": "canvas/06-png-export.png",
+          "blob": "c8d01695881ef5e58119c5e17a75678f3c6084d2"
+        }
+      ],
+      "slides": 6,
+      "export": "~/Desktop/blogs/unified-dev-canvas/",
+      "canvas": "https://claude.ai/artifact/5vbQcJ89oD2KuDmPgUwHrA",
+      "style": "~/.claude/styles/unified-dev.md"
     }
   ]
 }
