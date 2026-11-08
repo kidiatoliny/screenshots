@@ -79,6 +79,38 @@
       "export": "~/Desktop/blogs/akira-ui-overview/",
       "canvas": "https://claude.ai/artifact/8YDWNuGjWJdP1QFqPKcz5S",
       "style": "~/.claude/styles/akira-ui.md"
+    },
+    {
+      "feature": "blocks",
+      "post": "blocks/post.md",
+      "date": "2026-11-08",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "blocks/01-app-shell.png",
+          "blob": "48c420b505aca5dbaf1e0c310e12d8631e7e4701"
+        },
+        {
+          "file": "blocks/02-app-shell.png",
+          "blob": "c1337bf5f59be2fac11475775304ade42db4ae8c"
+        },
+        {
+          "file": "blocks/03-user-menu.png",
+          "blob": "de7ee550d6575c64dcc25de863b577fde1e5acb3"
+        },
+        {
+          "file": "blocks/04-sidebar-collapsed.png",
+          "blob": "808f16352f3175d6d18fccd658469107a7d0d28a"
+        },
+        {
+          "file": "blocks/05-usage.png",
+          "blob": "02b399a64660ce9a937bab897276537c1a104420"
+        }
+      ],
+      "slides": 5,
+      "export": "~/Desktop/blogs/akira-ui-blocks/",
+      "canvas": "https://claude.ai/artifact/1NRa14X4r3yj1tgJZjqnvv",
+      "style": "~/.claude/styles/akira-ui.md"
     }
   ]
 }
