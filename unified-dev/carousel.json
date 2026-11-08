@@ -193,11 +193,15 @@
         {
           "file": "profiles/02-profile-accounts.png",
           "blob": "8ed207bc5a0a24618e28fa800a28b901db41bb4e"
+        },
+        {
+          "file": "overview/01-main-window.png",
+          "blob": "2177cf7d1e376247851b6c5d36346299ae7adf38"
         }
       ],
-      "slides": 5,
+      "slides": 3,
       "export": "~/Desktop/blogs/unified-dev-profiles/",
-      "canvas": null,
+      "canvas": "https://claude.ai/artifact/PkGFPE7y9hq8y9j8PRk2sP",
       "style": "~/.claude/styles/unified-dev.md"
     }
   ]
