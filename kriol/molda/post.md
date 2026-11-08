@@ -17,6 +17,8 @@ Agora o compilador recusa as duas, com uma mensagem em português que diz quanto
 ## Screenshots
 
 - `02-temp-too-large.png`
+- `03-return-too-large.png`
+- `04-large-global.png`
 
 ---
 
