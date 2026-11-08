@@ -15,3 +15,7 @@ Akira UI ships blocks, not just components. The application shell gives you the 
 ## Screenshots
 
 - `01-app-shell.png`
+- `02-app-shell.png`
+- `03-user-menu.png`
+- `04-sidebar-collapsed.png`
+- `05-usage.png`

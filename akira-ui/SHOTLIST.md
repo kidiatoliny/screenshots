@@ -11,6 +11,10 @@ Screens to capture and their status. Build or open it from an up-to-date main, d
 - [x] `theming/01-default-purple.png`: A component page (e.g. Button) in the default Akira purple.
 - [x] `theming/02-custom-brand.png`: The same page after swapping the brand with a single CSS import. Same framing as 01 so they work side by side.
 - [x] `blocks/01-app-shell.png`: one of the application shells (sidebar, header, user menu).
+- [x] `blocks/02-app-shell.png`: the App Shell page, its preview in the header layout.
+- [x] `blocks/03-user-menu.png`: the App Sidebar preview with the user menu open (Settings, Log out).
+- [x] `blocks/04-sidebar-collapsed.png`: the App Sidebar preview with the sidebar collapsed to icons.
+- [x] `blocks/05-usage.png`: the App Sidebar page scrolled to Usage, the imports and the AppSidebar snippet.
 - [x] `data-table/01-row-actions.png`: The data table with the row actions menu open and the pagination and rows-per-page controls visible, built from main. Optional `data-table/02-accessibility.png`: the browser accessibility inspector showing the named controls.
 - [x] `tour/01-product-tour.png`: A product tour step from the blocks open over a demo page (the tour popover with its step counter and Next button).
 - [x] `tour/02-last-step.png`: The same tour on its last step, "2 of 2" with Previous and Done.
