@@ -215,6 +215,26 @@
       "export": "~/Desktop/blogs/tycho-timeline/",
       "canvas": "https://claude.ai/artifact/49f245anHexyCJ57vNsP4E",
       "style": "~/.claude/styles/tycho.md"
+    },
+    {
+      "feature": "design",
+      "post": "design/post.md",
+      "date": "2026-11-08",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "design/01-system-accent.png",
+          "blob": "04b7f220e0dade54dc113b70c3991bbc580c8012"
+        },
+        {
+          "file": "design/02-settings-no-accent-picker.png",
+          "blob": "aaf7433f3e7365ee474058e18bda4657fb466ac7"
+        }
+      ],
+      "slides": 3,
+      "export": "~/Desktop/blogs/tycho-design/",
+      "canvas": "https://claude.ai/artifact/NiDX9FMmNa1jhoYCJMCdqm",
+      "style": "~/.claude/styles/tycho.md"
     }
   ]
 }
