@@ -67,6 +67,38 @@
       "export": "~/Desktop/blogs/recaps-2026-11-21/",
       "canvas": "https://claude.ai/artifact/XUhMNzT3PkLa48n7vSt49D",
       "style": "~/.claude/styles/recaps.md"
+    },
+    {
+      "feature": "2026-11-22",
+      "post": "2026-11-22/post.md",
+      "date": "2026-11-08",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "../tycho/timeline/03-calendar-month.png",
+          "blob": "477078189c61e8cb88ff2d8bd44f2fbecd236fe4"
+        },
+        {
+          "file": "../unified-dev/profiles/02-profile-accounts.png",
+          "blob": "8ed207bc5a0a24618e28fa800a28b901db41bb4e"
+        },
+        {
+          "file": "../unified-dev/canvas/02-text-inspector.png",
+          "blob": "55560d150597af4f4046ad23d22f75ef2801479c"
+        },
+        {
+          "file": "../tycho/views/01-filter-builder.png",
+          "blob": "c224c21e0d62a296b7318c2cdf6bed4593bd9923"
+        },
+        {
+          "file": "../tycho/files/04-list.png",
+          "blob": "8a3c1514d5892482eb20ab2b3920b1b9960801ab"
+        }
+      ],
+      "canvas": "https://claude.ai/artifact/J7y9SZhxsA3Avjk6aFNk9V",
+      "style": "~/.claude/styles/recaps.md",
+      "slides": 5,
+      "export": "~/Desktop/blogs/recaps-2026-11-22/"
     }
   ]
 }
