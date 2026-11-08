@@ -15,3 +15,5 @@ Tycho's timeline: task bars you drag to shift dates, arrows for dependencies, mi
 ## Screenshots
 
 - `01-dependencies.png`
+- `02-months-all-projects.png`
+- `03-calendar-month.png`

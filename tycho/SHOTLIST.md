@@ -29,4 +29,6 @@ Source: https://github.com/akira-foundation/tycho (native SwiftUI task manager f
 - [x] `files/03-ios-file-actions.png`: iPhone, a file's context menu with Preview, Rename, Copy Link, Duplicate and Delete.
 - [x] `files/04-list.png`: macOS, the demo project's Files view in list layout, with files linked to a task.
 - [x] `timeline/01-dependencies.png`: macOS, a demo project's timeline in weeks zoom with task bars, at least one dependency arrow and a milestone. NEEDED BY Wed 18/11 08:00
+- [x] `timeline/02-months-all-projects.png`: macOS, the Timeline across every project in months zoom, with milestones and dependency arrows.
+- [x] `timeline/03-calendar-month.png`: macOS, the Calendar across every project in month view.
 - [ ] `design/01-system-accent.png`: macOS, Tycho's board with a non-default system accent colour (e.g. green) set in System Settings, so buttons and selection follow it. NEEDED BY Fri 20/11 08:00
