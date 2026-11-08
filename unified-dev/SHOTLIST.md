@@ -21,6 +21,11 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [x] `transcript/02-selection.png`: an agent's answer with a selection running from a paragraph through a list and into a code block. Demo project. NEEDED BY Fri 13/11 08:00
 - [x] `profiles/01-switcher.png`: the window on the Work demo profile, the sidebar switcher reading Work and only that profile's project (billing-sdk) in the sidebar and on Home. NEEDED BY Mon 16/11 08:00
 - [x] `composer/01-account-menu.png`: the composer's model menu open with its Account section (demo accounts only, e.g. ada@lovelace.dev) and Change…
+- [x] `composer/02-project-agents-default.png`: a demo project's settings, Agents pane, with Claude Code on the default account and the sentence saying every workspace and chat runs it.
+- [x] `composer/03-account-picker.png`: the same pane with the Claude Code account popup open (Default account, ada@lovelace.dev).
+- [x] `composer/04-project-agents-chosen.png`: the same pane after choosing ada@lovelace.dev, its sentence naming that account.
+- [x] `composer/05-menu-shipping-rules.png`: the model menu in another workspace of the project, Account reading ada@lovelace.dev.
+- [x] `composer/06-menu-flaky-order-test.png`: the model menu in a third workspace of the project, Account reading the same ada@lovelace.dev.
 - [x] `canvas/01-editor.png`: a workspace's canvas tab with the floating toolbar, a few shapes, notes and a frame, and one comment pinned on the canvas. Demo project.
 - [ ] `settings/02-run-without-asking.png`: a demo project's settings, Workspaces pane, with the Run commands without asking switch for the orchestrator visible (off). NEEDED BY Thu 19/11 08:00
 - [x] `transcript/03-tasks-sheet.png`: the background tasks list with Running and Finished sections and the Clear button, and a finished command's sheet open with status, type, duration, command and output. Demo project. NEEDED BY Sat 21/11 08:00

@@ -15,3 +15,8 @@ In Unified Dev the agent's account now sits in the model menu, under Account, an
 ## Screenshots
 
 - `01-account-menu.png`
+- `02-project-agents-default.png`
+- `03-account-picker.png`
+- `04-project-agents-chosen.png`
+- `05-menu-shipping-rules.png`
+- `06-menu-flaky-order-test.png`
