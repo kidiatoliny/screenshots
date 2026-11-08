@@ -75,9 +75,9 @@
           "blob": "0b8ea916e81af8291c787d1b4d94910a0b5ce0bb"
         }
       ],
-      "slides": 6,
+      "slides": 4,
       "export": "~/Desktop/blogs/akira-ui-overview/",
-      "canvas": null,
+      "canvas": "https://claude.ai/artifact/8YDWNuGjWJdP1QFqPKcz5S",
       "style": "~/.claude/styles/akira-ui.md"
     }
   ]
