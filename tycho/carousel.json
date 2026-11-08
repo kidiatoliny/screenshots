@@ -191,6 +191,30 @@
       "export": "~/Desktop/blogs/tycho-files/",
       "canvas": "https://claude.ai/artifact/QcLXQzNQ1FoGA1ioh7Q5Zz",
       "style": "~/.claude/styles/tycho.md"
+    },
+    {
+      "feature": "timeline",
+      "post": "timeline/post.md",
+      "date": "2026-11-08",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "timeline/01-dependencies.png",
+          "blob": "489f614f15af257412b5f195e4944b59153386e3"
+        },
+        {
+          "file": "timeline/02-months-all-projects.png",
+          "blob": "bc3cbd933381407ebbd82c0be181c4c59fcbe638"
+        },
+        {
+          "file": "timeline/03-calendar-month.png",
+          "blob": "477078189c61e8cb88ff2d8bd44f2fbecd236fe4"
+        }
+      ],
+      "slides": 4,
+      "export": "~/Desktop/blogs/tycho-timeline/",
+      "canvas": "https://claude.ai/artifact/49f245anHexyCJ57vNsP4E",
+      "style": "~/.claude/styles/tycho.md"
     }
   ]
 }
