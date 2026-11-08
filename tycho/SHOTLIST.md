@@ -31,4 +31,5 @@ Source: https://github.com/akira-foundation/tycho (native SwiftUI task manager f
 - [x] `timeline/01-dependencies.png`: macOS, a demo project's timeline in weeks zoom with task bars, at least one dependency arrow and a milestone. NEEDED BY Wed 18/11 08:00
 - [x] `timeline/02-months-all-projects.png`: macOS, the Timeline across every project in months zoom, with milestones and dependency arrows.
 - [x] `timeline/03-calendar-month.png`: macOS, the Calendar across every project in month view.
-- [ ] `design/01-system-accent.png`: macOS, Tycho's board with a non-default system accent colour (e.g. green) set in System Settings, so buttons and selection follow it. NEEDED BY Fri 20/11 08:00
+- [x] `design/01-system-accent.png`: macOS, Tycho's board with a non-default system accent colour (purple) set in System Settings, so buttons and selection follow it. NEEDED BY Fri 20/11 08:00
+- [x] `design/02-settings-no-accent-picker.png`: macOS, Tycho's Settings window: Appearance has Theme, Density and Motion, and no accent picker.

@@ -15,3 +15,4 @@ Tycho had an accent colour picker. I removed it: the app now follows the accent 
 ## Screenshots
 
 - `01-system-accent.png`
+- `02-settings-no-accent-picker.png`
