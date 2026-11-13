@@ -1,0 +1,56 @@
+{
+  "carousels": [
+    {
+      "feature": "overview",
+      "post": "overview/post.md",
+      "date": "2026-11-13",
+      "status": "approved",
+      "screenshots": [
+        {
+          "file": "overview/01-plan.png",
+          "blob": "daca02e4103078239b22b20a6df7b3bd67838baf"
+        },
+        {
+          "file": "overview/02-nearby.png",
+          "blob": "a4dcbc0732da68450166ec4f73968395f44fac41"
+        },
+        {
+          "file": "overview/03-live-vehicles.png",
+          "blob": "8c7d7c8172eebb70465253395e04336827401bba"
+        },
+        {
+          "file": "overview/04-departures.png",
+          "blob": "05b4566c063e0c62b6bfc127abd94f240a9d69db"
+        },
+        {
+          "file": "overview/05-itinerary.png",
+          "blob": "f634d44ea7468dfe0d5ad5d3a2db630a83cfa511"
+        },
+        {
+          "file": "overview/06-route-map.png",
+          "blob": "9a5d91847288ea4a2fe1925ba137fa2c8b75a6a3"
+        },
+        {
+          "file": "overview/07-disruptions.png",
+          "blob": "312c0db4fb29cf69bcc9ac6f2215541c95dca2ac"
+        },
+        {
+          "file": "overview/08-favorites.png",
+          "blob": "0b0ecafaa0e8e4e75358c656a0f1ef6d195f5c93"
+        },
+        {
+          "file": "overview/09-stats.png",
+          "blob": "24f6a03f25ad2717e48b960b13b99cfcc3e1a995"
+        },
+        {
+          "file": "overview/10-recents.png",
+          "blob": "c52bcd9693b06c90d733de79bea1b6cc951878a1"
+        }
+      ],
+      "slides": 9,
+      "export": "~/Desktop/blogs/hodos-overview/",
+      "canvas": "https://claude.ai/artifact/SqgT1TwTNuXBZMBq7nZHgH",
+      "style": "~/.claude/styles/hodos.md"
+    }
+  ]
+}
