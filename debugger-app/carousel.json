@@ -1,0 +1,23 @@
+{
+  "carousels": [
+    {
+      "feature": "overview",
+      "post": "overview/post.md",
+      "date": "2026-11-14",
+      "status": "approved",
+      "screenshots": [
+        { "file": "overview/01-log-list.png", "blob": "b5fa0de2a30983ba470a7127a6f1896ec28f0ea7" },
+        { "file": "overview/02-exception.png", "blob": "e5e7ea5307f7ff40c52a888513b4c13b89caf1e8" },
+        { "file": "overview/03-filters.png", "blob": "454a58dc6303c4b9ddb676007005a430478ab678" },
+        { "file": "overview/04-query.png", "blob": "8e33509571e334074e0a620f1435590296f45911" },
+        { "file": "overview/05-mailable.png", "blob": "d36068f809bea6853baeda03dc549170986eb146" },
+        { "file": "overview/06-eloquent-model.png", "blob": "a4f05f91610e805e16946f6fb0899dc212eb1a3c" },
+        { "file": "overview/07-ai-explain.png", "blob": "95d7958f485586c1f3f012a55a6aac98093f3b15" }
+      ],
+      "slides": 9,
+      "export": "~/Desktop/blogs/debugger-app-overview/",
+      "canvas": "https://claude.ai/artifact/NozsGDNQNVCXViKvvFj8np",
+      "style": "~/.claude/styles/debugger.md"
+    }
+  ]
+}
