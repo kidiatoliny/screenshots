@@ -1,0 +1,24 @@
+{
+  "carousels": [
+    {
+      "feature": "overview",
+      "post": "overview/post.md",
+      "date": "2026-11-14",
+      "status": "approved",
+      "screenshots": [
+        { "file": "overview/03-send-request.png", "blob": "58ffb66927a2d75a4e5b9964cd89699150679666" },
+        { "file": "overview/02-routes-by-resource.png", "blob": "372daf0a6512ec92784ea33dabdfc3c51686db40" },
+        { "file": "overview/04-add-project.png", "blob": "68276791fea1bbef6e9e432625805f9fc2f1b85c" },
+        { "file": "overview/01-main-window.png", "blob": "8b77f31b4f2b8d97031fc4e98900dff481249cb7" },
+        { "file": "overview/06-laravel-exception.png", "blob": "390f88dc29068349f5e5ea2ab431127dd9eeb417" },
+        { "file": "overview/07-snapshots.png", "blob": "962eb9e2f6d369794151095a078f50e7b6c19256" },
+        { "file": "overview/05-dashboard.png", "blob": "caf234afc3c793f52fe210c1bfe4e4b721f7a17a" },
+        { "file": "overview/09-command-palette.png", "blob": "66e776ebe62ec28f0b88e9713585629aa99022c2" }
+      ],
+      "slides": 8,
+      "export": "~/Desktop/blogs/spectra-desktop-overview/",
+      "canvas": "https://claude.ai/artifact/EbY1NbrXBhaJTUj25xNc1q",
+      "style": "~/.claude/styles/spectra.md"
+    }
+  ]
+}
