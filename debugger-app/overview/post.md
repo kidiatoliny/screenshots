@@ -1,6 +1,6 @@
 # Akira Debugger: overview
 
-Planned: not scheduled yet (first Akira Debugger post; waiting for the user to confirm status, link and how to present it)
+Planned: ON HOLD. The user is still working on Akira Debugger locally (13/11); do not schedule until he says so.
 
 ## Text: X
 
