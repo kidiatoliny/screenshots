@@ -32,16 +32,16 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [x] `canvas/04-pen-stroke.png`: a freehand pen stroke drawn around an element of the frame, pen tool active.
 - [x] `canvas/05-comments-panel.png`: the Comments panel open with one comment and its Send, Edit and Delete buttons.
 - [x] `canvas/06-png-export.png`: the notice after exporting, "Exported 1 frame to canvases/canvas.export", and the PNG listed in the files panel.
-- [ ] `settings/02-run-without-asking.png`: a demo project's settings, Workspaces pane, with the Run commands without asking switch for the orchestrator visible (off). NEEDED BY Thu 19/11 08:00
-- [x] `transcript/03-tasks-sheet.png`: the background tasks list with Running and Finished sections and the Clear button, and a finished command's sheet open with status, type, duration, command and output. Demo project. NEEDED BY Sat 21/11 08:00
+- [x] `settings/02-run-without-asking.png`: a demo project's settings, Workspaces pane, with the Run commands without asking switch for the orchestrator visible (off). NEEDED BY Thu 19/11 08:00
+- [ ] `transcript/03-tasks-sheet.png`: RETAKE: captured without the window shadow, not through shot.sh (docs guide). the background tasks list with Running and Finished sections and the Clear button, and a finished command's sheet open with status, type, duration, command and output. Demo project. NEEDED BY Sat 21/11 08:00
 - [x] `transcript/04-held-quotes.png`: three quotes from one answer held as cards above the composer, with a question typed below them. Demo project.
 - [x] `transcript/05-paste-shape.png`: a selection across a list and a code block pasted into the composer, keeping the list numbers and code lines. Demo project.
-- [ ] `workspaces/03-orchestrator-sidebar.png`: a demo project in the sidebar with its orchestrator as the first row (accent connected-points glyph) and the workspaces it started indented under it (68a72b2).
+- [x] `workspaces/03-orchestrator-sidebar.png`: a demo project in the sidebar with its orchestrator as the first row (accent connected-points glyph) and the workspaces it started indented under it (68a72b2).
 - [ ] `agent/04-orchestrator-read-list.png`: an orchestrator workspace's transcript where a listed read (e.g. `git status`) was answered by Unified Dev on its own, and a command off the closed read list (e.g. `perl -0pi -e ...`) is waiting for the owner's approval. Demo project (8aad2f4, f93bb26).
-- [ ] `settings/03-workspaces-tab.png`: Settings, the new Workspaces tab, with "archive a workspace once its pull request merges" on and the archived-workspace limits (age and total size) visible (77c9a0b, 6dd62c8, 024d312).
-- [ ] `git/03-image-diff.png`: the diff inspector on a modified PNG, showing the before and after images side by side instead of "Binary content is not shown". Demo project (4dc900f).
+- [x] `settings/03-workspaces-tab.png`: Settings, the new Workspaces tab, with "archive a workspace once its pull request merges" on and the archived-workspace limits (age and total size) visible (77c9a0b, 6dd62c8, 024d312).
+- [x] `git/03-image-diff.png`: the diff inspector on a modified PNG, showing the before and after images side by side instead of "Binary content is not shown". Demo project (4dc900f).
 - [ ] `updates/02-unsaved-edits.png`: Install and Restart asking first because of unsaved edits, naming the demo files with edits (1412ea0).
-- [ ] `transcript/04-run-shell-block.png`: an agent's reply with a bash code block, its run button, and the output shown under the block after it ran. Demo project (c42638d).
+- [x] `transcript/04-run-shell-block.png`: an agent's reply with a bash code block, its run button, and the output shown under the block after it ran. Demo project (c42638d).
 - [ ] `quota/01-grok-usage.png`: the menu bar usage panel showing Grok's quota for the current period and its plan, next to the other agents. Demo account only (dd37550).
 - [ ] `quota/02-other-account.png`: the menu bar limits panel for an agent whose allowance ran out, offering the agent's other demo account, with the note about what switching costs (f809fd5).
 - [x] `profiles/02-profile-accounts.png`: Profile Settings for a demo profile choosing between its own agent accounts and Unified's, with the profile's default account (#437).
@@ -55,3 +55,9 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [ ] `archive/04-kept-in-flight.png`: the notice after a pull request merged, saying the workspace was kept because another of its branches still has an open pull request or unpushed commits, naming them. Demo project (#591).
 - [ ] `git/04-auto-fix-switch.png`: a demo project's settings with the per-project "Ask to fix" automatic switch for pull requests (off by default) next to the orchestrator switch (#483).
 - [ ] `lessons/01-descriptors.png`: Ghostty next to the app with 12 demo workspaces open: `lsof -p <Unified Dev pid> | wc -l` and `launchctl limit maxfiles` on a build from develop, showing the descriptor count stays low (the watcher used to hold one per ancestor directory, 457 for 12 workspaces, and crashed the app) (#596).
+- [x] `panes/01-split.png`: one tab split into a chat, a terminal below it and a browser beside it (View, Split Right and Split Down).
+- [x] `notes/01-notes-tab.png`: a workspace's Notes tab open with a few lines of demo notes.
+- [ ] `browser/01-agent-drives-page.png`: a browser pane beside a chat where the agent has read and clicked on a local demo page (scenario browser-agent-acts.json).
+- [x] `settings/04-model-presets.png`: the model presets settings with two named demo presets.
+- [x] `browser/02-chat-and-browser.png`: a chat on the left and a browser on the right, split in the same workspace, with the changed files beside them (replaces the resized site image app-browser).
+- [x] `terminal/01-terminal-tab.png`: a terminal tab next to two chats and All changes, showing `git status --short --branch` for the workspace branch and the changed files on the right (replaces the resized site image app-terminal).
