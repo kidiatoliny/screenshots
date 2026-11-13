@@ -30,3 +30,6 @@ Screens to capture and their status. Build or open it from an up-to-date main, d
 - [x] `molda/03-return-too-large.png`: Ghostty: a Kriol function returning a molda over the limit, and the compiler's Portuguese error naming the function and the byte count (PR #30).
 - [x] `molda/04-large-global.png`: Ghostty: large molda and array globals initialised outside functions, compiled and run, printing their result (PR #30).
 - [ ] `parens/01-optional-parens.png`: Ghostty, kriol from main: `cat` of a short program using `si`, `pa` and `nkuantu` headers both with and without parentheses (as in tests/pass/statement_parens.kr), and its output when run (anaximeno, e93ac82).
+- [ ] `spia/03-spia-call.png`: Ghostty, kriol from main (1.17.0): `cat` of a program where `fn ler(): Erru` calls `spia konverti(...)` to pass the error on, and `inisiu` catches it with `spia { } oops (err) { }` printing err.mensagem, then its output (anaximeno, #37).
+- [ ] `spia/04-tenta-removed.png`: Ghostty: an old program with `tenta f()` and `f() sinon 0` compiled with kriol 1.17.0, and the errors that point to `spia` as the replacement (breaking change, #37).
+- [ ] `mostraln/01-deprecated-mostran.png`: Ghostty: a program still using `mostran` compiling with the deprecation warning that suggests `mostraln`, and running; below it the same line with `mostraln` and no warning (#37).
