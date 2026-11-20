@@ -17,6 +17,26 @@
       ],
       "workspaces": [
         {
+          "name": "Orchestrator",
+          "branch": "orchestrator",
+          "orchestrator": true,
+          "chats": [
+            {
+              "title": "Clean up",
+              "messages": [
+                {
+                  "from": "user",
+                  "text": "Reply in English. The old cart branch is merged. Clean it up."
+                },
+                {
+                  "from": "agent",
+                  "text": "It's merged into main, so this deletes the local branch:\n\n```bash\ngit branch -D old-cart‍-flow\n```"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Free shipping over 50",
           "branch": "feat/free-shipping",
           "chats": [
@@ -240,6 +260,25 @@
         "agent": "grok",
         "state": "installed",
         "version": "0.1.0"
+      },
+      {
+        "agent": "antigravity",
+        "state": "connected",
+        "version": "1.5.9",
+        "details": [
+          {
+            "label": "Provider",
+            "value": "Google"
+          },
+          {
+            "label": "Login method",
+            "value": "Google sign in"
+          },
+          {
+            "label": "Account",
+            "value": "demo@unifieddev.invalid"
+          }
+        ]
       }
     ]
   },
@@ -247,7 +286,9 @@
     {
       "name": "Work",
       "colour": "E06C2A",
-      "symbol": "briefcase"
+      "symbol": "briefcase",
+      "github": "own",
+      "bitbucket": "own"
     }
   ],
   "accounts": [
@@ -274,5 +315,19 @@
       "profile": "Work",
       "isProfileDefault": true
     }
-  ]
+  ],
+  "gitHosting": {
+    "gitHub": {
+      "thisMac": "demo-studio",
+      "profiles": {
+        "Work": "northwind-dev"
+      }
+    },
+    "bitbucket": {
+      "thisMac": "demo-studio",
+      "profiles": {
+        "Work": "northwind-pipelines"
+      }
+    }
+  }
 }
