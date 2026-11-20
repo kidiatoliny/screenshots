@@ -64,3 +64,15 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [ ] `antigravity/01-chat.png`: A chat with the Antigravity CLI agent on a demo project, its model menu open. Demo account only. NEEDED BY Tue 01/12 20:00
 - [ ] `workspaces/04-starting-points.png`: The new workspace sheet on a demo project with the starting point suggestions under the composer: a pull request waiting on the owner, an assigned issue and recent branches (#603). Demo data. NEEDED BY Wed 02/12 20:00
 - [ ] `transcript/06-confirm-invisible.png`: An orchestrator chat on a demo project: the native alert after pressing Run on a writing command that contains a zero-width space, showing the command with the character spelled out, its folder, the warning and the count (#629). NEEDED BY Thu 03/12 20:00
+
+## Weekly check 20/11 (develop, 13/11 to 20/11)
+
+- [ ] `search/01-quick-search.png`: the quick search panel opened from Preview with the quick search scenario, searching "lamp": the scope segmented picker, workspace and transcript results across two demo projects, a profile row, a command with its shortcut, and the footer keys. Highlighted row on the accent (#688, fa9cad0, 134d26d).
+- [ ] `terminal/01-ansi-dark.png`: a workspace terminal in a dark window running a command that prints all 16 ANSI colours (e.g. a small colour test loop), every colour readable and blue a real blue (#628).
+- [ ] `terminal/02-ansi-light.png`: the same colour test in a light window, showing the terminal now follows its own appearance (#628).
+- [ ] `transcript/07-chapters.png`: a demo chat with two or three messages pinned as chapters, the bookmark button at the top right of the pane open and listing them in order (#604).
+- [ ] `transcript/08-fork-from-here.png`: a message's menu open with Pin as chapter and Fork from here, and (if possible in one shot) the new forked tab next to the source tab with the same title. Demo project (#604).
+- [ ] `agent/05-account-divider.png`: a demo chat that switched between two accounts of the same provider, the divider naming the account it continued with (e.g. "Continued with Claude Code · ada@lovelace.dev"). Demo accounts only (#601).
+- [ ] `profiles/07-reachable-setting.png`: Profile Settings with the "Reachable from other profiles" switch and its caveat, plus (separate shot is fine) the owner's card for a profile_list call from a workspace chat listing the open demo profiles (59d4893, 7c05def).
+- [ ] `git/05-ci-jobs-running.png`: the pull request bar on a demo GitHub repository while checks run, naming the jobs in progress and how many are queued (#597).
+- [ ] `lessons/02-conventional-squash.png`: lesson "1.3.0 lost its features in the changelog": Ghostty with `git log --oneline` showing squash subjects that are not conventional commits next to the merge step now asking for a conventional title (or the CI check refusing a non-conventional PR title). Demo repo, no real PR data (80a2e53, 1e337af, bb5fe25).
