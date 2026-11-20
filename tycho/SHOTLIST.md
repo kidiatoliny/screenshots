@@ -33,3 +33,10 @@ Source: https://github.com/akira-foundation/tycho (native SwiftUI task manager f
 - [x] `timeline/03-calendar-month.png`: macOS, the Calendar across every project in month view.
 - [x] `design/01-system-accent.png`: macOS, Tycho's board with a non-default system accent colour (purple) set in System Settings, so buttons and selection follow it. NEEDED BY Fri 20/11 08:00
 - [x] `design/02-settings-no-accent-picker.png`: macOS, Tycho's Settings window: Appearance has Theme, Density and Motion, and no accent picker.
+
+## Batch 23/11 to 6/12
+
+- [ ] `native/01-projects-summary.png`: macOS, the Projects screen after #25: grouped summary rows (Favorites first, then a section per status), each with the status label, progress bar in the project colour, "d of t tasks", lead and last update; the Sort By menu in the toolbar. Demo data. NEEDED BY Sun 22/11 20:00
+- [ ] `icon/01-regolith.png`: The Regolith app icon (#18): the app running with its icon in the Dock and the About Tycho window open. Demo data. NEEDED BY Mon 23/11 20:00
+- [ ] `native/02-date-picker.png`: macOS, a task's date pill open: the graphical system DatePicker with Today and Clear Date buttons (#25). Demo data. NEEDED BY Tue 24/11 20:00
+- [ ] `home/04-counts-gauge.png`: macOS Home with demo data where some tasks were completed this week: the open, done and overdue cards, and a project's progress drawn as the native capacity gauge. NEEDED BY Wed 25/11 20:00

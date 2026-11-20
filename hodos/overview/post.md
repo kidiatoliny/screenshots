@@ -1,6 +1,6 @@
 # Akira Hodos: what it is
 
-Planned: not scheduled
+Planned: X 24/11 10:00, Bluesky 24/11 10:00, LI 25/11 08:30 (Europe/Luxembourg)
 
 Link: none yet. The carousel closes on "Coming soon to the App Store".
 

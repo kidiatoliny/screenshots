@@ -1,6 +1,6 @@
 # Akira Debugger: overview
 
-Planned: not scheduled. The carousel is approved (2026-11-14); the owner publishes by hand.
+Planned: X 30/11 18:00, Bluesky 30/11 18:00, LI 01/12 08:30 (Europe/Luxembourg)
 
 ## Text: X
 

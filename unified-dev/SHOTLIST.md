@@ -55,3 +55,12 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [ ] `archive/04-kept-in-flight.png`: the notice after a pull request merged, saying the workspace was kept because another of its branches still has an open pull request or unpushed commits, naming them. Demo project (#591).
 - [ ] `git/04-auto-fix-switch.png`: a demo project's settings with the per-project "Ask to fix" automatic switch for pull requests (off by default) next to the orchestrator switch (#483).
 - [ ] `lessons/01-descriptors.png`: Ghostty next to the app with 12 demo workspaces open: `lsof -p <Unified Dev pid> | wc -l` and `launchctl limit maxfiles` on a build from develop, showing the descriptor count stays low (the watcher used to hold one per ancestor directory, 457 for 12 workspaces, and crashed the app) (#596).
+
+## Batch 23/11 to 6/12
+
+- [ ] `release-1-3/01-agents.png`: Settings > Agents on 1.3.x with all four agents (Claude Code, Codex, Grok, Antigravity) and demo accounts only; the Claude in Chrome switch visible on the Claude Code row. NEEDED BY Sat 28/11 20:00
+- [ ] `release-1-3/02-git-hosting.png`: Settings > Git Hosting pane (#655) with a demo GitHub account and a demo Bitbucket account for a profile. NEEDED BY Sat 28/11 20:00
+- [ ] `bitbucket/01-pr-bar.png`: A workspace on a demo Bitbucket Cloud repository: the pull request bar with its Pipelines build status and the merge button with a strategy. Demo account only. NEEDED BY Mon 30/11 20:00
+- [ ] `antigravity/01-chat.png`: A chat with the Antigravity CLI agent on a demo project, its model menu open. Demo account only. NEEDED BY Tue 01/12 20:00
+- [ ] `workspaces/04-starting-points.png`: The new workspace sheet on a demo project with the starting point suggestions under the composer: a pull request waiting on the owner, an assigned issue and recent branches (#603). Demo data. NEEDED BY Wed 02/12 20:00
+- [ ] `transcript/06-confirm-invisible.png`: An orchestrator chat on a demo project: the native alert after pressing Run on a writing command that contains a zero-width space, showing the command with the character spelled out, its folder, the warning and the count (#629). NEEDED BY Thu 03/12 20:00

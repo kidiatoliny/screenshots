@@ -29,3 +29,35 @@ The Home screen is the other half. Every workspace from every project sits in on
 When a tool creates branches and folders for you, where do you want it to stop and ask?
 
 #Swift #macOS #git
+
+---
+
+# Unified Dev: starting points
+
+Planned: X 03/12 18:00, Bluesky 03/12 18:00 (Europe/Luxembourg)
+
+## Text: X
+
+A new workspace in Unified Dev used to start from an empty composer. Now it suggests up to four starting points: pull requests waiting on you, issues assigned to you and branches you touched lately. Click an issue and it cuts a branch and adds the issue to the prompt.
+
+## Text: Bluesky
+
+A new workspace in Unified Dev now suggests up to four starting points: pull requests waiting on you, issues assigned to you and branches you touched lately. Click an issue and it cuts a branch and adds it to the prompt.
+
+#Swift #macOS
+
+## Text: LinkedIn
+
+An empty text box is a bad place to start work.
+
+In Unified Dev, my macOS app for running coding agents in parallel, a new workspace opened on an empty composer. Most of the time I already knew what I wanted: the pull request someone asked me to review, the issue assigned to me, the branch I left yesterday.
+
+So the space under the composer now lists up to four starting points the app finds on its own: pull requests waiting on you, issues assigned to you and local branches touched in the last two weeks, one of each kind before a second of any. Click a pull request or a branch and the workspace starts from it. Click an issue and it cuts a new branch from the default one and puts the issue in the prompt.
+
+The reading is reused for two minutes, so opening the sheet again doesn't ask GitHub twice.
+
+#Swift #macOS #DevTools
+
+## Screenshots
+
+- `04-starting-points.png`

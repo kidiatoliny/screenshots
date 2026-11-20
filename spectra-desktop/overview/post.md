@@ -1,6 +1,6 @@
 # Spectra: overview
 
-Planned: not scheduled yet (first Spectra post). Spectra is free; site: spectra-desktop.app
+Planned: X 23/11 18:00, Bluesky 23/11 18:00, LI 24/11 08:30 (Europe/Luxembourg)
 
 ## Text: X
 
@@ -31,3 +31,23 @@ Which framework should it read next?
 - `01-main-window.png`
 - `02-routes-by-resource.png`
 - `03-send-request.png`
+
+---
+
+# AMA: Spectra
+
+Planned: X 29/11 18:00, Bluesky 29/11 18:00 (Europe/Luxembourg)
+
+## Text: X
+
+Ask me anything about Spectra, the free API client I'm building: reading Laravel and NestJS routes from the code, keeping tokens encrypted on your machine, Go and Wails on the desktop. I'll answer in the replies.
+
+## Text: Bluesky
+
+Ask me anything about Spectra, the free API client I'm building: reading Laravel and NestJS routes from the code, keeping tokens encrypted on your machine, Go and Wails on the desktop. I'll answer in the replies.
+
+#golang #DevTools
+
+## Screenshots
+
+- `09-command-palette.png`
