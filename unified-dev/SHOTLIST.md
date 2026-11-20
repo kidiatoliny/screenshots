@@ -32,7 +32,7 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [x] `canvas/04-pen-stroke.png`: a freehand pen stroke drawn around an element of the frame, pen tool active.
 - [x] `canvas/05-comments-panel.png`: the Comments panel open with one comment and its Send, Edit and Delete buttons.
 - [x] `canvas/06-png-export.png`: the notice after exporting, "Exported 1 frame to canvases/canvas.export", and the PNG listed in the files panel.
-- [ ] `settings/02-run-without-asking.png`: a demo project's settings, Workspaces pane, with the Run commands without asking switch for the orchestrator visible (off). NEEDED BY Thu 19/11 08:00
+- [x] `settings/02-run-without-asking.png`: a demo project's settings, Workspaces pane, with the Run commands without asking switch for the orchestrator visible (on, the app's default). NEEDED BY Thu 19/11 08:00
 - [x] `transcript/03-tasks-sheet.png`: the background tasks list with Running and Finished sections and the Clear button, and a finished command's sheet open with status, type, duration, command and output. Demo project. NEEDED BY Sat 21/11 08:00
 - [x] `transcript/04-held-quotes.png`: three quotes from one answer held as cards above the composer, with a question typed below them. Demo project.
 - [x] `transcript/05-paste-shape.png`: a selection across a list and a code block pasted into the composer, keeping the list numbers and code lines. Demo project.
@@ -58,12 +58,12 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 
 ## Batch 23/11 to 6/12
 
-- [ ] `release-1-3/01-agents.png`: Settings > Agents on 1.3.x with all four agents (Claude Code, Codex, Grok, Antigravity) and demo accounts only; the Claude in Chrome switch visible on the Claude Code row. NEEDED BY Sat 28/11 20:00
-- [ ] `release-1-3/02-git-hosting.png`: Settings > Git Hosting pane (#655) with a demo GitHub account and a demo Bitbucket account for a profile. NEEDED BY Sat 28/11 20:00
+- [x] `release-1-3/01-agents.png`: Settings > Agents on 1.3.x with every agent (Claude Code, Codex, Grok, Antigravity, Cursor, OpenCode) and demo accounts only; the Claude in Chrome switch visible on the Claude Code row. NEEDED BY Sat 28/11 20:00
+- [x] `release-1-3/02-git-hosting.png`: Settings > Git Hosting pane (#655) with a demo GitHub account and a demo Bitbucket account for a profile. NEEDED BY Sat 28/11 20:00
 - [ ] `bitbucket/01-pr-bar.png`: A workspace on a demo Bitbucket Cloud repository: the pull request bar with its Pipelines build status and the merge button with a strategy. Demo account only. NEEDED BY Mon 30/11 20:00
 - [ ] `antigravity/01-chat.png`: A chat with the Antigravity CLI agent on a demo project, its model menu open. Demo account only. NEEDED BY Tue 01/12 20:00
 - [ ] `workspaces/04-starting-points.png`: The new workspace sheet on a demo project with the starting point suggestions under the composer: a pull request waiting on the owner, an assigned issue and recent branches (#603). Demo data. NEEDED BY Wed 02/12 20:00
-- [ ] `transcript/06-confirm-invisible.png`: An orchestrator chat on a demo project: the native alert after pressing Run on a writing command that contains a zero-width space, showing the command with the character spelled out, its folder, the warning and the count (#629). NEEDED BY Thu 03/12 20:00
+- [x] `transcript/06-confirm-invisible.png`: An orchestrator chat on a demo project: the native alert after pressing Run on a writing command that contains a zero-width joiner (the transcript strips a zero-width space before it reaches the button), showing the command with the character spelled out, its folder, the warning and the count (#629). NEEDED BY Thu 03/12 20:00
 
 ## Weekly check 20/11 (develop, 13/11 to 20/11)
 
