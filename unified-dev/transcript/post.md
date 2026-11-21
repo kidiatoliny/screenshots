@@ -66,7 +66,7 @@ Planned: LI 04/12 08:30, X 04/12 18:00, Bluesky 04/12 18:00 (Europe/Luxembourg)
 
 ## Text: X
 
-An orchestrator in Unified Dev can put a shell command in a code block with a Run button. A command that only reads runs at once. Anything else asks first, and the confirmation spells out every invisible character, so a bidi override or a zero-width space can't disguise it.
+An orchestrator in Unified Dev can put a shell command in a code block with a Run button. A command that only reads runs at once. Anything else asks first, and the confirmation spells out every invisible character, so a bidi override or a zero-width joiner can't disguise it.
 
 ## Text: Bluesky
 
@@ -82,7 +82,7 @@ In Unified Dev, the orchestrator agent can answer with a shell command in a code
 
 The detail I care about: the alert keeps only characters that draw something and spells out the rest. Control characters, bidi overrides, zero-width spaces, combining marks, blank letters, in the command and in the folder, with a count of how many it spelled out. Text can say one thing on screen and another to the shell. The confirmation shouldn't be where that happens.
 
-Would you have caught a zero-width space in a command?
+Would you have caught a zero-width character in a command?
 
 #Swift #macOS #AISecurity
 
