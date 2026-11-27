@@ -16,3 +16,8 @@ Screens to capture and their status. Build or open it from an up-to-date main, d
 - [x] `overview/09-command-palette.png`: the command palette searching endpoints by name.
 - [ ] `routes/01-nestjs.png`: NestJS routes detected in a demo project.
 - [ ] `license/01-trial-banner.png`: the trial banner.
+
+## Batch 12/12 - 25/12
+
+- [ ] `import/01-curl.png`: the Import from curl dialog with a curl command for the demo API pasted in, and next to it (or a second shot 02-curl-request.png) the scratch request it created with the pretty-printed body. Demo data only. NEEDED BY Wed 16/12 20:00
+- [ ] `dashboard/02-insights.png`: the Dashboard's Insights tab with a demo request history: latency, usage and failure trends, and the hourly heatmap. NEEDED BY Tue 22/12 20:00

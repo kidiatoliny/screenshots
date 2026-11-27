@@ -17,3 +17,7 @@ Screens and their status. The post that uses a feature's shots goes in that feat
 - [x] `overview/10-recents.png`: Recents, searches and trips.
 
 Not shot yet: the Lock Screen Live Activity, the Dynamic Island, the Home Screen widget, the France switch in Settings.
+
+## Batch 12/12 - 25/12
+
+- [ ] `trip/03-live-activity.png`: iPhone simulator Lock Screen (and, if possible, 04-dynamic-island.png) with a demo Akira Hodos trip running as a Live Activity. NEEDED BY Thu 17/12 20:00
