@@ -1,6 +1,6 @@
 # Akira Hodos: favourites and stats
 
-Planned: X 27/11 18:00, Bluesky 27/11 18:00 (Europe/Luxembourg)
+Planned: Bluesky 05/12 10:00, X 05/12 10:00 (Europe/Luxembourg)
 
 ## Text: X
 

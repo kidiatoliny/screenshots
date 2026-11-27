@@ -1,6 +1,6 @@
 # Akira Hodos: following a trip
 
-Planned: X 26/11 10:00, Bluesky 26/11 10:00, LI 03/12 08:30 (Europe/Luxembourg)
+Planned: Bluesky 02/12 10:00, X 02/12 10:00 (Europe/Luxembourg)
 
 ## Text: X
 

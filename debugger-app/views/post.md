@@ -1,6 +1,6 @@
 # Akira Debugger: each entry the way it should look
 
-Planned: X 05/12 10:00, Bluesky 05/12 10:00 (Europe/Luxembourg)
+Planned: Bluesky 08/12 10:00, X 08/12 10:00 (Europe/Luxembourg)
 
 ## Text: X
 

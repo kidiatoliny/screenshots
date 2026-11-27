@@ -1,6 +1,6 @@
 # Unified Dev 1.3
 
-Planned: LI 30/11 08:30, X 30/11 10:00, Bluesky 30/11 10:00 (Europe/Luxembourg)
+Planned: LI 30/11 08:30, Bluesky 30/11 10:00, X 30/11 10:00 (Europe/Luxembourg)
 
 ## Text: X
 
@@ -37,7 +37,7 @@ Which agent or host should come next?
 
 # AMA: Unified Dev
 
-Planned: X 06/12 18:00, Bluesky 06/12 18:00 (Europe/Luxembourg)
+Planned: Bluesky 06/12 18:00, X 06/12 18:00 (Europe/Luxembourg)
 
 ## Text: X
 

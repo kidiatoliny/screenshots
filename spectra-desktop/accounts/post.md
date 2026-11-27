@@ -1,6 +1,6 @@
 # Spectra: saved accounts with TOTP
 
-Planned: X 04/12 10:00, Bluesky 04/12 10:00 (Europe/Luxembourg)
+Planned: Bluesky 11/12 10:00, X 11/12 10:00 (Europe/Luxembourg)
 
 ## Text: X
 

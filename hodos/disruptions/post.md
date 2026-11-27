@@ -1,6 +1,6 @@
 # Akira Hodos: disruptions that affect me
 
-Planned: X 02/12 10:00, Bluesky 02/12 10:00 (Europe/Luxembourg)
+Planned: Bluesky 10/12 10:00, X 10/12 10:00 (Europe/Luxembourg)
 
 ## Text: X
 

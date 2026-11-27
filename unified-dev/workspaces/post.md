@@ -34,7 +34,7 @@ When a tool creates branches and folders for you, where do you want it to stop a
 
 # Unified Dev: starting points
 
-Planned: X 03/12 18:00, Bluesky 03/12 18:00 (Europe/Luxembourg)
+Planned: Bluesky 10/12 18:00, X 10/12 18:00 (Europe/Luxembourg)
 
 ## Text: X
 

@@ -1,6 +1,6 @@
 # Tycho: the Regolith icon
 
-Planned: X 24/11 18:00, Bluesky 24/11 18:00 (Europe/Luxembourg)
+Planned: Bluesky 08/12 18:00, X 08/12 18:00 (Europe/Luxembourg)
 
 ## Text: X
 

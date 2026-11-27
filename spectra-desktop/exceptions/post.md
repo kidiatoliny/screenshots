@@ -1,6 +1,6 @@
 # Spectra: Laravel exceptions (LinkedIn)
 
-Planned: LI 27/11 08:30 (Europe/Luxembourg)
+Planned: LI 08/12 08:30 (Europe/Luxembourg)
 
 ## Text: LinkedIn
 
@@ -24,7 +24,7 @@ What else should an API client understand about your framework?
 
 # Spectra: Laravel exceptions
 
-Planned: X 28/11 10:00, Bluesky 28/11 10:00 (Europe/Luxembourg)
+Planned: Bluesky 07/12 18:00, X 07/12 18:00 (Europe/Luxembourg)
 
 ## Text: X
 
