@@ -76,3 +76,12 @@ Screens to capture and their status. Where a shot is used lives in `posts/<post>
 - [ ] `profiles/07-reachable-setting.png`: Profile Settings with the "Reachable from other profiles" switch and its caveat, plus (separate shot is fine) the owner's card for a profile_list call from a workspace chat listing the open demo profiles (59d4893, 7c05def).
 - [ ] `git/05-ci-jobs-running.png`: the pull request bar on a demo GitHub repository while checks run, naming the jobs in progress and how many are queued (#597).
 - [ ] `lessons/02-conventional-squash.png`: lesson "1.3.0 lost its features in the changelog": Ghostty with `git log --oneline` showing squash subjects that are not conventional commits next to the merge step now asking for a conventional title (or the CI check refusing a non-conventional PR title). Demo repo, no real PR data (80a2e53, 1e337af, bb5fe25).
+
+## Batch 12/12 - 25/12
+
+- [ ] `terminal/01-ansi-dark.png`: a workspace terminal in dark appearance printing all 16 ANSI colours (e.g. a colour test script or `ls --color` plus `git log --graph --color` on the demo repo), all readable (#628). NEEDED BY Sun 13/12 20:00
+- [ ] `terminal/02-ansi-light.png`: the same terminal and output in light appearance (#628). NEEDED BY Sun 13/12 20:00
+- [ ] `search/01-quick-search.png`: the quick search panel open over a demo project with a query typed: segmented scope picker, a highlighted row in the accent colour, and the footer keys with the escape glyph (#688). NEEDED BY Tue 15/12 20:00
+- [ ] `settings/03-grok-account.png`: Settings > Agents on a profile with its own demo Grok account signed in (email and name shown), next to Claude Code and Codex. Demo accounts only. NEEDED BY Thu 17/12 20:00
+- [ ] `menu-bar/01-compact.png`: the menu bar usage popover in its compact layout (#555) with demo readings: one card per provider, one line per limit, a folded provider with +N more. Use the menu-bar-compact.json scenario. NEEDED BY Sun 20/12 20:00
+- [ ] `inspector/01-side-conversation.png`: a demo chat with a side conversation open in the inspector (#559), a short question and answer in it, the main transcript next to it. English only. NEEDED BY Thu 24/12 20:00

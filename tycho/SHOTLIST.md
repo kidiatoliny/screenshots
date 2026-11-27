@@ -40,3 +40,7 @@ Source: https://github.com/akira-foundation/tycho (native SwiftUI task manager f
 - [x] `icon/01-regolith.png`: The Regolith app icon (#18): the app running with its icon in the Dock and the About Tycho window open. Demo data. NEEDED BY Mon 07/12 20:00
 - [x] `native/02-date-picker.png`: macOS, a task's date pill open: the graphical system DatePicker with Today and Clear Date buttons (#25). Demo data. NEEDED BY Tue 08/12 20:00
 - [x] `home/04-counts-gauge.png`: macOS Home with demo data where some tasks were completed this week: the open, done and overdue cards, and a project's progress drawn as the native capacity gauge. NEEDED BY Wed 09/12 08:00
+
+## Batch 12/12 - 25/12
+
+- [ ] `ios/02-project.png`: iOS 27 simulator, a demo project open in the list view, with the toolbar search button visible. NEEDED BY Thu 24/12 20:00
