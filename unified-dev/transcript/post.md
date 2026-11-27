@@ -62,7 +62,7 @@ Background tasks in Unified Dev now split into Running and Finished, with a Clea
 
 # Unified Dev: confirm before running, invisible characters spelled out
 
-Planned: LI 04/12 08:30, X 04/12 18:00, Bluesky 04/12 18:00 (Europe/Luxembourg)
+Planned: Bluesky 02/12 18:00, X 02/12 18:00, LI 09/12 08:30 (Europe/Luxembourg)
 
 ## Text: X
 

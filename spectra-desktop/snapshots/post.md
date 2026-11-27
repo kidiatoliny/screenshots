@@ -1,6 +1,6 @@
 # Spectra: snapshots after a rescan
 
-Planned: X 01/12 10:00, Bluesky 01/12 10:00 (Europe/Luxembourg)
+Planned: Bluesky 09/12 10:00, X 09/12 10:00 (Europe/Luxembourg)
 
 ## Text: X
 

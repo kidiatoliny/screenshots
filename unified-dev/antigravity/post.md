@@ -1,6 +1,6 @@
 # Unified Dev: Antigravity over ACP
 
-Planned: X 02/12 18:00, Bluesky 02/12 18:00 (Europe/Luxembourg)
+Planned: Bluesky 04/12 18:00, X 04/12 18:00 (Europe/Luxembourg)
 
 ## Text: X
 

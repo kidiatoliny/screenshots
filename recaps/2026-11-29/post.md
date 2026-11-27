@@ -1,6 +1,6 @@
 # Domingo, ponto da situação 29/11
 
-Planned: X 29/11 10:00, Bluesky 29/11 10:00 (Europe/Luxembourg)
+Planned: Bluesky 29/11 10:00, X 29/11 10:00 (Europe/Luxembourg)
 
 ## Text: X
 

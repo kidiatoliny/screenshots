@@ -1,6 +1,6 @@
 # Unified Dev: Bitbucket Cloud
 
-Planned: LI 02/12 08:30, X 01/12 18:00, Bluesky 01/12 18:00 (Europe/Luxembourg)
+Planned: Bluesky 03/12 18:00, X 03/12 18:00, LI 11/12 08:30 (Europe/Luxembourg)
 
 ## Text: X
 

@@ -36,7 +36,7 @@ Which framework should it read next?
 
 # AMA: Spectra
 
-Planned: X 29/11 18:00, Bluesky 29/11 18:00 (Europe/Luxembourg)
+Planned: Bluesky 29/11 18:00, X 29/11 18:00 (Europe/Luxembourg)
 
 ## Text: X
 

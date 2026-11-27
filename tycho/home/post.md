@@ -22,7 +22,7 @@ Tycho opens on Home: today's tasks, and cards for what's open, done and overdue.
 
 # Tycho: Home counts that mean something
 
-Planned: LI 26/11 08:30, X 26/11 18:00, Bluesky 26/11 18:00 (Europe/Luxembourg)
+Planned: LI 10/12 08:30, Bluesky 11/12 18:00, X 11/12 18:00 (Europe/Luxembourg)
 
 ## Text: X
 

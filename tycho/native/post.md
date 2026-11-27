@@ -1,6 +1,6 @@
 # Tycho: the macOS UI made native
 
-Planned: LI 23/11 08:30, X 23/11 10:00, Bluesky 23/11 10:00 (Europe/Luxembourg)
+Planned: LI 07/12 08:30, Bluesky 07/12 10:00, X 07/12 10:00 (Europe/Luxembourg)
 
 ## Text: X
 
@@ -34,7 +34,7 @@ What's the first thing that tells you an app isn't native?
 
 # Tycho: system date pickers
 
-Planned: X 25/11 18:00, Bluesky 25/11 18:00 (Europe/Luxembourg)
+Planned: Bluesky 09/12 18:00, X 09/12 18:00 (Europe/Luxembourg)
 
 ## Text: X
 

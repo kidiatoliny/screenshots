@@ -18,7 +18,7 @@ Lesson from Unified Dev: to know which account an agent CLI is signed in to, I s
 
 # Unified Dev: run commands without asking
 
-Planned: 2026-11-19 08:30 Luxembourg (LinkedIn)
+Planned: Bluesky 01/12 18:00, X 01/12 18:00, LI 04/12 08:30 (Europe/Luxembourg)
 
 ## Text: LinkedIn
 
@@ -42,7 +42,7 @@ Would you let an agent run commands without asking?
 
 # Unified Dev: run commands without asking
 
-Planned: 2026-11-19 18:00 Luxembourg (X + Bluesky)
+Planned: Bluesky 01/12 18:00, X 01/12 18:00, LI 04/12 08:30 (Europe/Luxembourg)
 
 ## Text: X
 

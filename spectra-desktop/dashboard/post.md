@@ -1,6 +1,6 @@
 # Spectra: the dashboard
 
-Planned: X 27/11 10:00, Bluesky 27/11 10:00 (Europe/Luxembourg)
+Planned: Bluesky 04/12 10:00, X 04/12 10:00 (Europe/Luxembourg)
 
 ## Text: X
 

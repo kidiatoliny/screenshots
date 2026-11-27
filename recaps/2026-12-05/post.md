@@ -1,6 +1,6 @@
 # Weekly recap 05/12
 
-Planned: X 05/12 18:00, Bluesky 05/12 18:00 (Europe/Luxembourg)
+Planned: Bluesky 05/12 18:00, X 05/12 18:00 (Europe/Luxembourg)
 
 ## Text: X
 

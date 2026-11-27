@@ -1,6 +1,6 @@
 # Akira Debugger: Explain with Claude
 
-Planned: X 03/12 10:00, Bluesky 03/12 10:00 (Europe/Luxembourg)
+Planned: Bluesky 03/12 10:00, X 03/12 10:00 (Europe/Luxembourg)
 
 ## Text: X
 

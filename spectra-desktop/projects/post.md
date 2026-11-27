@@ -1,6 +1,6 @@
 # Spectra: adding a project
 
-Planned: X 25/11 10:00, Bluesky 25/11 10:00 (Europe/Luxembourg)
+Planned: Bluesky 01/12 10:00, X 01/12 10:00 (Europe/Luxembourg)
 
 ## Text: X
 
